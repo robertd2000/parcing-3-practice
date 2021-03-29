@@ -6,81 +6,60 @@ import os
 
 url = 'https://smolensk.jsprav.ru'
 
-# req = requests.get(url)
-# src = req.text
-#
-# soup = BeautifulSoup(src, 'lxml')
-# sections = soup.find_all(class_='col-sm-6')
-#
-# all_categories_dict = {}
-#
-# for item in sections:
-#     item_text = item.find('a').find('span').text.strip()
-#     item_link = item.find('a').get('href')
-#
-#     all_categories_dict[item_text] = url + item_link
-#     print(item_text, item_link)
-#
-#     with open('data2.json', 'w', encoding='utf-8') as file:
-#         json.dump(all_categories_dict, file, indent=4, ensure_ascii=False)
+req = requests.get(url)
+src = req.text
 
-# res_dict = {}
-# with open('data2.json', encoding='utf-8') as file:
-#     all_categories = json.load(file)
-#
-# for category_title, category_link in all_categories.items():
-#
-#     rep = [' ', ',', "'", '-']
-#
-#     for item in rep:
-#         if item in category_title:
-#             category_title = category_title.replace(item, '_')
-#
-#     req = requests.get(category_link)
-#     src = req.text
-#
-#     soup = BeautifulSoup(src, 'lxml')
-#
-#     category_level = soup.find(class_='category-level0').find('h1').text
-#
-#     json_dict = {}
-#     links_links = []
-#
-#     cat_item = soup.find_all(class_='cat-item')
-#     for item in cat_item:
-#         item_inner = item.find('a').find('span').nextSibling.strip()
-#         item_link = item.find('a').get('href')
-#
-#         item_dict = {}
-#         item_dict[item_inner] = url + item_link
-#         links_links.append(item_dict)
-#
-#
-#     json_dict[category_level] = links_links
-#     res_dict[category_title] = json_dict
-#
-# #
-# with open('category_data.json', 'a', encoding='utf-8') as file:
-#     json.dump(res_dict, file, indent=4, ensure_ascii=False)
+soup = BeautifulSoup(src, 'lxml')
+sections = soup.find_all(class_='col-sm-6')
 
-# with open(f'category//{category_title}.json', 'w', encoding='utf-8') as file:
-#     json.dump(json_dict, file, indent=4, ensure_ascii=False)
-#
-# print(category_level)
+all_categories_dict = {}
 
-#
-# for item in links:
-#     item_text = item.find('a').find('span')
-#     item_link = item.find('a').get('href')
-#
-#     if item_text != None:
-#         item_text = item_text.nextSibling.strip()
-#         all_categories_dict[item_text] = url + item_link
-#
+for item in sections:
+    item_text = item.find('a').find('span').text.strip()
+    item_link = item.find('a').get('href')
 
+    all_categories_dict[item_text] = url + item_link
+    print(item_text, item_link)
 
-# with open('datat.json', 'w', encoding='UTF-8') as file:
-#     json.dump(all_categories_dict, file, indent=4, ensure_ascii=False)
+    with open('data2.json', 'w', encoding='utf-8') as file:
+        json.dump(all_categories_dict, file, indent=4, ensure_ascii=False)
+
+res_dict = {}
+with open('data2.json', encoding='utf-8') as file:
+    all_categories = json.load(file)
+
+for category_title, category_link in all_categories.items():
+
+    rep = [' ', ',', "'", '-']
+
+    for item in rep:
+        if item in category_title:
+            category_title = category_title.replace(item, '_')
+
+    req = requests.get(category_link)
+    src = req.text
+
+    soup = BeautifulSoup(src, 'lxml')
+
+    category_level = soup.find(class_='category-level0').find('h1').text
+
+    json_dict = {}
+    links_links = []
+
+    cat_item = soup.find_all(class_='cat-item')
+    for item in cat_item:
+        item_inner = item.find('a').find('span').nextSibling.strip()
+        item_link = item.find('a').get('href')
+
+        item_dict = {}
+        item_dict[item_inner] = url + item_link
+        links_links.append(item_dict)
+
+    json_dict[category_level] = links_links
+    res_dict[category_title] = json_dict
+
+with open('category_data.json', 'a', encoding='utf-8') as file:
+    json.dump(res_dict, file, indent=4, ensure_ascii=False)
 
 with open('category_data.json', encoding='UTF-8') as file:
     all_categories = json.load(file)
@@ -90,7 +69,6 @@ for key in all_categories.values():
     for key2 in key.values():
         for category in key2:
             for category_title, category_link in category.items():
-
 
                 rep = [' ', ',', "'", '-', '/', '\\']
 
