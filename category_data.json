@@ -1,0 +1,3785 @@
+{
+    "Авто_и_мото": {
+        "Авто и мото в Смоленске": [
+            {
+                "Автоателье": "https://smolensk.jsprav.ru/avtoatele/"
+            },
+            {
+                "Автоклубы": "https://smolensk.jsprav.ru/avtoklubyi/"
+            },
+            {
+                "Автоломбарды": "https://smolensk.jsprav.ru/avtolombardyi/"
+            },
+            {
+                "Автомагазины": "https://smolensk.jsprav.ru/avtomagazinyi/"
+            },
+            {
+                "Автомобильные краски": "https://smolensk.jsprav.ru/avtomobilnyie-kraski/"
+            },
+            {
+                "Автомобильные отопители": "https://smolensk.jsprav.ru/aavtomobilnyie-otopiteli/"
+            },
+            {
+                "Автомобильные прицепы": "https://smolensk.jsprav.ru/avtomobilnyie-pritsepyi/"
+            },
+            {
+                "Автомоечное оборудование": "https://smolensk.jsprav.ru/avtomoechnoe-oborudovanie/"
+            },
+            {
+                "Автомойки": "https://smolensk.jsprav.ru/avtomojki/"
+            },
+            {
+                "Автопогрузчики и электрокары": "https://smolensk.jsprav.ru/avtopogruzchiki-i-elektrokaryi/"
+            },
+            {
+                "Авторазборки": "https://smolensk.jsprav.ru/avtorazborki/"
+            },
+            {
+                "Авторынки": "https://smolensk.jsprav.ru/avtoryinki/"
+            },
+            {
+                "Автосалоны": "https://smolensk.jsprav.ru/avtosalonyi/"
+            },
+            {
+                "Автосервисное оборудование": "https://smolensk.jsprav.ru/avtoservisnoe-oborudovanie/"
+            },
+            {
+                "Автосервисы и автотехцентры": "https://smolensk.jsprav.ru/avtoservisyi-avtotehtsentryi/"
+            },
+            {
+                "Автостоянки и паркинги": "https://smolensk.jsprav.ru/avtostoyanki-parkingi/"
+            },
+            {
+                "Автотехпомощь и эвакуация автомобилей": "https://smolensk.jsprav.ru/avtotehpomosch-i-evakuatsiya-avtomobilej/"
+            },
+            {
+                "Автотранспортные предприятия и автобазы": "https://smolensk.jsprav.ru/avtotransportnoe-predpriyatie-i-avtobaza/"
+            },
+            {
+                "Авточехлы": "https://smolensk.jsprav.ru/avtochehlyi/"
+            },
+            {
+                "Автошколы": "https://smolensk.jsprav.ru/avtoshkolyi/"
+            },
+            {
+                "Автоэкспертиза и оценка автомобилей": "https://smolensk.jsprav.ru/avtoekspertiza-i-otsenka-avtomobilej/"
+            },
+            {
+                "Автоюристы": "https://smolensk.jsprav.ru/avtoyuristyi/"
+            },
+            {
+                "АГНС, АГЗС, АГНКС": "https://smolensk.jsprav.ru/agns-agzs-agnks/"
+            },
+            {
+                "АЗС": "https://smolensk.jsprav.ru/azs/"
+            },
+            {
+                "Б/У резина": "https://smolensk.jsprav.ru/bu-rezina/"
+            },
+            {
+                "Выкуп автомобилей": "https://smolensk.jsprav.ru/vyikup-avtomobilej/"
+            },
+            {
+                "ГАИ и ГИБДД": "https://smolensk.jsprav.ru/gai-gibdd/"
+            },
+            {
+                "Гаражи и гаражное оборудование": "https://smolensk.jsprav.ru/garazhi-i-garazhnoe-oborudovanie/"
+            },
+            {
+                "Гаражные кооперативы и ГСК": "https://smolensk.jsprav.ru/garazhnyie-kooperativyi/"
+            },
+            {
+                "Запчасти для автобусов": "https://smolensk.jsprav.ru/zapchasti-dlya-avtobusov/"
+            },
+            {
+                "Магазины автоаксессуаров": "https://smolensk.jsprav.ru/magazinyi-avtoaksessuarov/"
+            },
+            {
+                "Магазины автоакустики": "https://smolensk.jsprav.ru/magazinyi-avtoakustiki/"
+            },
+            {
+                "Магазины автозапчастей и автотоваров": "https://smolensk.jsprav.ru/magazinyi-avtozapchastej-i-avtotovarov/"
+            },
+            {
+                "Магазины автокосметики и автохимии": "https://smolensk.jsprav.ru/magazinyi-avtokosmetiki-i-avtohimii/"
+            },
+            {
+                "Магазины автокресел": "https://smolensk.jsprav.ru/magazinyi-avtokresel/"
+            },
+            {
+                "Магазины автомасел": "https://smolensk.jsprav.ru/magazinyi-avtomasel/"
+            },
+            {
+                "Магазины автомобильных дисков и шин": "https://smolensk.jsprav.ru/magazinyi-avtomobilnyih-diskov-i-shin/"
+            },
+            {
+                "Магазины автоэмалей и автомобильных красок": "https://smolensk.jsprav.ru/magazinyi-avtoemalej-i-avtomobilnyih-krasok/"
+            },
+            {
+                "Магазины аккумуляторов и зарядных устройств": "https://smolensk.jsprav.ru/magazinyi-akkumulyatoryiov-i-zaryadnyih-ustrojstv/"
+            },
+            {
+                "Магазины запчастей для мотоциклов и мототехники": "https://smolensk.jsprav.ru/magazinyi-zapchastej-dlya-mototsiklov-i-mototehniki/"
+            },
+            {
+                "Мониторинг автотранспорта": "https://smolensk.jsprav.ru/monitoring-avtotransporta/"
+            },
+            {
+                "Мотосалоны": "https://smolensk.jsprav.ru/motosalonyi/"
+            },
+            {
+                "Оценка ущерба от ДТП": "https://smolensk.jsprav.ru/otsenka-uscherba-ot-dtp/"
+            },
+            {
+                "Парковки, паркинги и стоянки": "https://smolensk.jsprav.ru/parkovki-i-parkingi/"
+            },
+            {
+                "Переоборудование автомобилей": "https://smolensk.jsprav.ru/pereoborudovanie-avtomobilej/"
+            },
+            {
+                "Продажа автомобильных фургонов и автодомов": "https://smolensk.jsprav.ru/prodazha-avtomobilnyih-furgonov-i-avtodomov/"
+            },
+            {
+                "Продажа и аренда вездеходов, гидроциклов и снегоходов": "https://smolensk.jsprav.ru/prodazha-i-arenda-vezdehodov-gidrotsiklov-i-snegohodov/"
+            },
+            {
+                "Продажа и замена редукторов": "https://smolensk.jsprav.ru/prodazha-i-zamena-reduktorov/"
+            },
+            {
+                "Продажа и ремонт автобусов": "https://smolensk.jsprav.ru/prodazha-i-remont-avtobusov/"
+            },
+            {
+                "Продажа и ремонт грузовых автомобилей и грузовой техники": "https://smolensk.jsprav.ru/prodazha-i-remont-gruzovyih-avtomobilej-i-gruzovoj-tehniki/"
+            },
+            {
+                "Производство и оптовая продажа автозапчастей": "https://smolensk.jsprav.ru/proizvodstvo-i-optovaya-prodazha-avtozapchastej/"
+            },
+            {
+                "Пункты техосмотра": "https://smolensk.jsprav.ru/punktyi-tehosmotra/"
+            },
+            {
+                "Ремонт, замена и продажа автостекол": "https://smolensk.jsprav.ru/remont-zamena-i-prodazha-avtostekol/"
+            },
+            {
+                "Ремонт мототехники и мотоциклов": "https://smolensk.jsprav.ru/remont-mototehniki-i-mototsiklov/"
+            },
+            {
+                "Средства безопасности дорожного движения": "https://smolensk.jsprav.ru/sredstva-bezopasnosti-dorozhnogo-dvizheniya/"
+            },
+            {
+                "Строительство и оснащение АЗС": "https://smolensk.jsprav.ru/stroitelstvo-i-osnaschenie-azs/"
+            },
+            {
+                "Студии автотюнинга": "https://smolensk.jsprav.ru/studii-avtotyuninga/"
+            },
+            {
+                "Топливные компании": "https://smolensk.jsprav.ru/toplivnyie-kompanii/"
+            },
+            {
+                "Установка и продажа автомобильных тахографов": "https://smolensk.jsprav.ru/ustanovka-i-prodazha-avtomobilnyih-tahografov/"
+            },
+            {
+                "Чип-тюнинг": "https://smolensk.jsprav.ru/chip-tyuning/"
+            },
+            {
+                "Шиномонтаж": "https://smolensk.jsprav.ru/shinomontazh/"
+            },
+            {
+                "Штрафстоянка ГАИ и ГИБДД": "https://smolensk.jsprav.ru/shtrafstoyanka-gai-i-gibdd/"
+            }
+        ]
+    },
+    "Безопасность_и_защита": {
+        "Безопасность и защита в Смоленске": [
+            {
+                "Компьютерные базы данных": "https://smolensk.jsprav.ru/kompyuternyie-bazyi-dannyih/"
+            },
+            {
+                "Магазины охранных систем": "https://smolensk.jsprav.ru/magazinyi-ohrannyih-sistem/"
+            },
+            {
+                "Огнезащита": "https://smolensk.jsprav.ru/ognezaschita/"
+            },
+            {
+                "Оружие и средства самозащиты": "https://smolensk.jsprav.ru/oruzhie-i-sredstva-samozaschityi/"
+            },
+            {
+                "Охранные предприятия и агентства": "https://smolensk.jsprav.ru/ohrannyie-predpriyatiya-i-agentstva/"
+            },
+            {
+                "Пожарная охрана и безопастность": "https://smolensk.jsprav.ru/pozharnaya-ohrana-i-bezopastnost/"
+            },
+            {
+                "Пожарное оборудование": "https://smolensk.jsprav.ru/pozharnoe-oborudovanie/"
+            },
+            {
+                "Пожарные сигнализации": "https://smolensk.jsprav.ru/pozharnyie-signalizatsii/"
+            },
+            {
+                "Проверка на полиграфе": "https://smolensk.jsprav.ru/proverka-na-poligrafe/"
+            },
+            {
+                "Продажа огнетушителей": "https://smolensk.jsprav.ru/prodazha-ognetushitelej/"
+            },
+            {
+                "Промышленная безопасность": "https://smolensk.jsprav.ru/promyishlennaya-bezopasnost/"
+            },
+            {
+                "Противопожарные системы": "https://smolensk.jsprav.ru/protivopozharnyie-sistemyi/"
+            },
+            {
+                "Системы безопасности": "https://smolensk.jsprav.ru/sistemyi-bezopasnosti/"
+            },
+            {
+                "Системы видеонаблюдения": "https://smolensk.jsprav.ru/sistemyi-videonablyudeniya/"
+            },
+            {
+                "Средства индивидуальной защиты": "https://smolensk.jsprav.ru/sredstva-individualnoj-zaschityi/"
+            },
+            {
+                "Удостоверяющие центры": "https://smolensk.jsprav.ru/udostoveryayuschie-tsentryi/"
+            },
+            {
+                "Услуги по защите информации": "https://smolensk.jsprav.ru/uslugi-po-zaschite-informatsii/"
+            },
+            {
+                "Экспертиза промышленной безопасности": "https://smolensk.jsprav.ru/ekspertiza-promyishlennoj-bezopasnosti/"
+            }
+        ]
+    },
+    "Госучреждения_и_общественные_организации": {
+        "Госучреждения и общественные организации в Смоленске": [
+            {
+                "Архивы": "https://smolensk.jsprav.ru/arhivyi/"
+            },
+            {
+                "Ассоциации и промышленные союзы": "https://smolensk.jsprav.ru/assotsiatsii-i-promyishlennyie-soyuzyi/"
+            },
+            {
+                "Благотворительные фонды": "https://smolensk.jsprav.ru/blagotvoritelnyie-fondyi/"
+            },
+            {
+                "Бюро технической инвентаризации": "https://smolensk.jsprav.ru/byuro-tehnicheskoj-inventarizatsii/"
+            },
+            {
+                "Визовые центры иностранных государств": "https://smolensk.jsprav.ru/vizovyie-tsentryi-inostrannyih-gosudarstv/"
+            },
+            {
+                "Водоканалы и водные хозяйства": "https://smolensk.jsprav.ru/vodokanalyi-i-vodnyie-hozyajstva/"
+            },
+            {
+                "Военкоматы и комиссариаты": "https://smolensk.jsprav.ru/voenkomatyi-i-komissariatyi/"
+            },
+            {
+                "Госавтоинспекции": "https://smolensk.jsprav.ru/gosavtoinspektsii/"
+            },
+            {
+                "Департаменты": "https://smolensk.jsprav.ru/departamentyi/"
+            },
+            {
+                "Детские дома": "https://smolensk.jsprav.ru/detskie-doma/"
+            },
+            {
+                "Дома инвалидов и престарелых": "https://smolensk.jsprav.ru/doma-invalidov-i-prestarelyih/"
+            },
+            {
+                "Дома ребенка": "https://smolensk.jsprav.ru/doma-rebenka/"
+            },
+            {
+                "Дорожные хозяйства и управления": "https://smolensk.jsprav.ru/dorozhnyie-hozyajstva-i-upravleniya/"
+            },
+            {
+                "Жилищные отделы и комитеты": "https://smolensk.jsprav.ru/zhilischnyie-otdelyi-i-komitetyi/"
+            },
+            {
+                "ЗАГСы": "https://smolensk.jsprav.ru/zagsyi/"
+            },
+            {
+                "Земельные инспекции": "https://smolensk.jsprav.ru/zemelnyie-inspektsii/"
+            },
+            {
+                "Землеустройство": "https://smolensk.jsprav.ru/zemleustrojstvo/"
+            },
+            {
+                "Избирательные комиссии и участки": "https://smolensk.jsprav.ru/izbiratelnyie-komissii-i-uchastki/"
+            },
+            {
+                "Иностранные представительства": "https://smolensk.jsprav.ru/inostrannyie-predstavitelstva/"
+            },
+            {
+                "Инспекции по правам потребителей": "https://smolensk.jsprav.ru/inspektsii-po-pravam-potrebitelej/"
+            },
+            {
+                "Исправительные учреждения": "https://smolensk.jsprav.ru/ispravitelnyie-uchrezhdeniya/"
+            },
+            {
+                "Казначейства": "https://smolensk.jsprav.ru/kaznachejstva/"
+            },
+            {
+                "Католические храмы, церкви и соборы": "https://smolensk.jsprav.ru/katolicheskie-hramyi-tserkvi-i-soboryi/"
+            },
+            {
+                "Коммунальные хозяйства": "https://smolensk.jsprav.ru/kommunalnyie-hozyajstva/"
+            },
+            {
+                "Котельные": "https://smolensk.jsprav.ru/kotelnyie/"
+            },
+            {
+                "Международные организации": "https://smolensk.jsprav.ru/mezhdunarodnyie-organizatsii/"
+            },
+            {
+                "МФЦ": "https://smolensk.jsprav.ru/mfts/"
+            },
+            {
+                "Налоговые инспекции и службы": "https://smolensk.jsprav.ru/nalogovyie-inspektsii-sluzhbyi/"
+            },
+            {
+                "Областные администрации": "https://smolensk.jsprav.ru/oblastnyie-administratsii/"
+            },
+            {
+                "Общественные организации ветеранов": "https://smolensk.jsprav.ru/obschestvennyie-organizatsii-veteranov/"
+            },
+            {
+                "Организации инвалидов": "https://smolensk.jsprav.ru/organizatsii-invalidov/"
+            },
+            {
+                "Органы власти": "https://smolensk.jsprav.ru/organyi-vlasti/"
+            },
+            {
+                "Отделения полиции и милиции": "https://smolensk.jsprav.ru/otdeleniya-politsii-i-militsii/"
+            },
+            {
+                "Паспортно-визовые службы": "https://smolensk.jsprav.ru/pasportno-vizovyie-sluzhbyi/"
+            },
+            {
+                "Пенсионные фонды": "https://smolensk.jsprav.ru/pensionnyie-fondyi/"
+            },
+            {
+                "Политические партии": "https://smolensk.jsprav.ru/politicheskaie-partii/"
+            },
+            {
+                "Православные храмы": "https://smolensk.jsprav.ru/pravoslavnyie-hramyi/"
+            },
+            {
+                "Прокуратуры": "https://smolensk.jsprav.ru/prokuraturyi/"
+            },
+            {
+                "Профсоюзы": "https://smolensk.jsprav.ru/profsoyuzyi/"
+            },
+            {
+                "Религиозные учреждения": "https://smolensk.jsprav.ru/religioznyie-uchrezhdeniya/"
+            },
+            {
+                "Саморегулируемые организации": "https://smolensk.jsprav.ru/samoreguliruemyie-organizatsii/"
+            },
+            {
+                "Санэпидемстанции": "https://smolensk.jsprav.ru/sanepidemstantsii/"
+            },
+            {
+                "Санэпиднадзоры": "https://smolensk.jsprav.ru/sanepidnadzoryi/"
+            },
+            {
+                "Следственные комитеты": "https://smolensk.jsprav.ru/sledstvennyie-komitetyi/"
+            },
+            {
+                "Службы спасения": "https://smolensk.jsprav.ru/sluzhbyi-spaseniya/"
+            },
+            {
+                "Собесы": "https://smolensk.jsprav.ru/sobesyi/"
+            },
+            {
+                "Соборы": "https://smolensk.jsprav.ru/soboryi/"
+            },
+            {
+                "Социальная помощь": "https://smolensk.jsprav.ru/sotsialnaya-pomosch/"
+            },
+            {
+                "Статистические организации и службы": "https://smolensk.jsprav.ru/statisticheskie-organizatsii-i-sluzhbyi/"
+            },
+            {
+                "Судебные приставы": "https://smolensk.jsprav.ru/sudebnyie-pristavyi/"
+            },
+            {
+                "Суды": "https://smolensk.jsprav.ru/sudyi/"
+            },
+            {
+                "Таможенные брокеры": "https://smolensk.jsprav.ru/tamozhennyie-brokeryi/"
+            },
+            {
+                "Таможенные склады": "https://smolensk.jsprav.ru/tamozhennyie-skladyi/"
+            },
+            {
+                "Таможенные услуги": "https://smolensk.jsprav.ru/tamozhennyie-uslugi/"
+            },
+            {
+                "Таможня": "https://smolensk.jsprav.ru/tamozhnya/"
+            },
+            {
+                "Теплосети": "https://smolensk.jsprav.ru/teploseti/"
+            },
+            {
+                "Товарищества собственников жилья": "https://smolensk.jsprav.ru/tovarischestva-sobstvennikov-zhilya/"
+            },
+            {
+                "Товары и услуги для паломников": "https://smolensk.jsprav.ru/tovaryi-i-uslugi-dlya-palomnikov/"
+            },
+            {
+                "Торгово-закупочные компании": "https://smolensk.jsprav.ru/torgovo-zakupochnyie-kompanii/"
+            },
+            {
+                "Торгово-промышленные палаты": "https://smolensk.jsprav.ru/torgovo-promyishlennyie-palatyi/"
+            },
+            {
+                "Управляющие компании": "https://smolensk.jsprav.ru/upravlyayuschie-kompanii/"
+            },
+            {
+                "Услуги теплоснабжения": "https://smolensk.jsprav.ru/uslugi-teplosnabzheniya/"
+            },
+            {
+                "Центры занятости": "https://smolensk.jsprav.ru/tsentryi-zanyatosti/"
+            },
+            {
+                "Центры и службы гидрометеорологии": "https://smolensk.jsprav.ru/tsentryi-i-sluzhbyi-gidrometeorologii/"
+            },
+            {
+                "Церкви": "https://smolensk.jsprav.ru/tserkvi/"
+            },
+            {
+                "Экологические организации": "https://smolensk.jsprav.ru/ekologicheskie-organizatsii/"
+            },
+            {
+                "Электросетевые и электросбытовые компании": "https://smolensk.jsprav.ru/elektrosetevyie-i-elektrosbyitovyie-kompanii/"
+            },
+            {
+                "Энергоснабжение": "https://smolensk.jsprav.ru/energosnabzhenie/"
+            }
+        ]
+    },
+    "Услуги": {
+        "Услуги в Смоленске": [
+            {
+                "3D-печать": "https://smolensk.jsprav.ru/3d-pechat/"
+            },
+            {
+                "POS-материалы": "https://smolensk.jsprav.ru/pos-materialyi/"
+            },
+            {
+                "Аварийные службы": "https://smolensk.jsprav.ru/avarijnyie-sluzhbyi/"
+            },
+            {
+                "Автобусные перевозки": "https://smolensk.jsprav.ru/avtobusnyie-perevozki/"
+            },
+            {
+                "Автомобильные грузоперевозки": "https://smolensk.jsprav.ru/avtomobilnyie-gruzoperevozki/"
+            },
+            {
+                "Адвокаты": "https://smolensk.jsprav.ru/advokatyi/"
+            },
+            {
+                "Алмазная резка": "https://smolensk.jsprav.ru/almaznaya-rezka/"
+            },
+            {
+                "Архитектурная подсветка": "https://smolensk.jsprav.ru/arhitekturnaya-podsvetka/"
+            },
+            {
+                "Ателье по пошиву одежды": "https://smolensk.jsprav.ru/atele-po-poshivu-odezhdyi/"
+            },
+            {
+                "Аудиторские компании": "https://smolensk.jsprav.ru/auditorskie-kompanii/"
+            },
+            {
+                "Аутсорсинг и лизинг персонала": "https://smolensk.jsprav.ru/autsorsing-i-lizing-personala/"
+            },
+            {
+                "Бизнес тренинги": "https://smolensk.jsprav.ru/biznes-treningi/"
+            },
+            {
+                "Биржы": "https://smolensk.jsprav.ru/birzhyi/"
+            },
+            {
+                "Благоустройство территорий": "https://smolensk.jsprav.ru/blagoustrojstvo-territorij/"
+            },
+            {
+                "Брелоки": "https://smolensk.jsprav.ru/breloki/"
+            },
+            {
+                "Брелоки акриловые": "https://smolensk.jsprav.ru/breloki-akrilovyie/"
+            },
+            {
+                "Брелоки металлические": "https://smolensk.jsprav.ru/breloki-metallicheskie/"
+            },
+            {
+                "Брелоки-рулетки": "https://smolensk.jsprav.ru/breloki-ruletki/"
+            },
+            {
+                "Брелоки с логотипом": "https://smolensk.jsprav.ru/breloki-s-logotipom/"
+            },
+            {
+                "Брокерские компании": "https://smolensk.jsprav.ru/brokerskie-kompanii/"
+            },
+            {
+                "Букмекерские конторы": "https://smolensk.jsprav.ru/bukmekerskie-kontoryi/"
+            },
+            {
+                "Буровые работы": "https://smolensk.jsprav.ru/burovyie-rabotyi/"
+            },
+            {
+                "Бухгалтерские услуги": "https://smolensk.jsprav.ru/buhgalterskie-uslugi/"
+            },
+            {
+                "Бытовые услуги": "https://smolensk.jsprav.ru/byitovyie-uslugi/"
+            },
+            {
+                "Бюро переводов": "https://smolensk.jsprav.ru/byuro-perevodov/"
+            },
+            {
+                "Ведущие на праздники, мероприятия и корпоративы": "https://smolensk.jsprav.ru/veduschie-na-prazdniki-meropriyatiya-i-korporativyi/"
+            },
+            {
+                "Видеостудии и видеосъемка": "https://smolensk.jsprav.ru/videostudii-i-videosemka/"
+            },
+            {
+                "Водосчетчики, газосчетчики и теплосчетчики": "https://smolensk.jsprav.ru/vodoschetchiki-gazoschetchiki-i-teploschetchiki/"
+            },
+            {
+                "Вывоз мусора и отходов": "https://smolensk.jsprav.ru/vyivoz-musora-i-othodov/"
+            },
+            {
+                "Геодезические работы": "https://smolensk.jsprav.ru/geodezicheskie-rabotyi/"
+            },
+            {
+                "Геологоразведочные работы": "https://smolensk.jsprav.ru/geologorazvedochnyie-rabotyi/"
+            },
+            {
+                "Граверные мастерские": "https://smolensk.jsprav.ru/gravernyie-rabotyi/"
+            },
+            {
+                "Графический дизайн": "https://smolensk.jsprav.ru/graficheskij-dizajn/"
+            },
+            {
+                "Детективные агентства и розыск людей": "https://smolensk.jsprav.ru/detektivnyie-agentstva-i-rozyisk-lyudej/"
+            },
+            {
+                "Доставка воды": "https://smolensk.jsprav.ru/dostavka-vodyi/"
+            },
+            {
+                "Доставка еды и обедов": "https://smolensk.jsprav.ru/dostavka-edyi-i-obedov/"
+            },
+            {
+                "Доставка цветов и букетов": "https://smolensk.jsprav.ru/dostavka-tsvetov-i-buketov/"
+            },
+            {
+                "Заправка картриджей": "https://smolensk.jsprav.ru/zapravka-kartridzhej/"
+            },
+            {
+                "Защита авторских прав и интеллектуальной собственности": "https://smolensk.jsprav.ru/zaschita-avtorskih-prav-i-intellektualnoj-sobstvennosti/"
+            },
+            {
+                "Звуковая реклама": "https://smolensk.jsprav.ru/zvukovaya-reklama/"
+            },
+            {
+                "Изготовление визиток": "https://smolensk.jsprav.ru/izgotovlenie-vizitok/"
+            },
+            {
+                "Изготовление вывесок и наружной рекламы": "https://smolensk.jsprav.ru/izgotovlenie-vyivesok-i-naruzhnoj-reklamyi/"
+            },
+            {
+                "Изготовление значков и медалей": "https://smolensk.jsprav.ru/izgotovlenie-znachkov-i-medalej/"
+            },
+            {
+                "Изготовление и печать бланков": "https://smolensk.jsprav.ru/izgotovlenie-i-pechat-blankov/"
+            },
+            {
+                "Изготовление и печать листовок": "https://smolensk.jsprav.ru/izgotovlenie-i-pechat-listovok/"
+            },
+            {
+                "Изготовление и печать рекламной продукции": "https://smolensk.jsprav.ru/izgotovlenie-i-pechat-reklamnoj-produktsii/"
+            },
+            {
+                "Изготовление и продажа наклеек, эмблем и этикеток": "https://smolensk.jsprav.ru/izgotovlenie-i-prodazha-nakleek-emblem-i-etiketok/"
+            },
+            {
+                "Изготовление и производство фотосувениров": "https://smolensk.jsprav.ru/izgotovlenie-i-proizvodstvo-fotosuvenirov/"
+            },
+            {
+                "Изготовление и установка памятников и надгробий": "https://smolensk.jsprav.ru/izgotovlenie-i-ustanovka-pamyatnikov-i-nadgrobij/"
+            },
+            {
+                "Изготовление магнитов с логотипом и фото": "https://smolensk.jsprav.ru/izgotovlenie-magnitov-s-logotipom-i-foto/"
+            },
+            {
+                "Изготовление печатей и штампов": "https://smolensk.jsprav.ru/izgotovlenie-pechatej-i-shtampov/"
+            },
+            {
+                "Изготовление пластиковых карт": "https://smolensk.jsprav.ru/izgotovlenie-plastikovyih-kart/"
+            },
+            {
+                "Изготовление, производство и печать книг": "https://smolensk.jsprav.ru/izgotovlenie-proizvodstvo-i-pechat-knig/"
+            },
+            {
+                "Изготовление, установка и аренда выставочных стендов": "https://smolensk.jsprav.ru/izgotovlenie-ustanovka-i-arenda-vyistavochnyih-stendov/"
+            },
+            {
+                "Издательства и издательские услуги": "https://smolensk.jsprav.ru/izdatelskie-uslugi/"
+            },
+            {
+                "Изыскательские работы и организации": "https://smolensk.jsprav.ru/izyiskatelskie-rabotyi-i-organizatsii/"
+            },
+            {
+                "Инжиниринг": "https://smolensk.jsprav.ru/inzhiniring/"
+            },
+            {
+                "Интернет-агентства": "https://smolensk.jsprav.ru/internet-agentstva/"
+            },
+            {
+                "Кадастровые работы": "https://smolensk.jsprav.ru/kadastrovyie-rabotyi/"
+            },
+            {
+                "Кадровые агентства": "https://smolensk.jsprav.ru/kadrovyie-agentstva/"
+            },
+            {
+                "Коллекторские агентства": "https://smolensk.jsprav.ru/kollektorskie-agentstva/"
+            },
+            {
+                "Колл-центры": "https://smolensk.jsprav.ru/koll-tsentryi/"
+            },
+            {
+                "Коммунальные службы": "https://smolensk.jsprav.ru/kommunalnyie-sluzhbyi/"
+            },
+            {
+                "Компьютерная системная интеграция": "https://smolensk.jsprav.ru/kompyuternaya-sistemnaya-integratsiya/"
+            },
+            {
+                "Компьютерные курсы": "https://smolensk.jsprav.ru/kompyuternyie-kursyi/"
+            },
+            {
+                "Консалтинговые услуги": "https://smolensk.jsprav.ru/konsaltingovyie-uslugi/"
+            },
+            {
+                "Копировальные центры": "https://smolensk.jsprav.ru/kopirovalnyie-tsentryi/"
+            },
+            {
+                "Курсы парикмахеров, стилистов и мастеров маникюра": "https://smolensk.jsprav.ru/kursyi-parikmaherov-stilistov-i-masterov-manikyura/"
+            },
+            {
+                "Курьерские службы": "https://smolensk.jsprav.ru/kurerskie-sluzhbyi/"
+            },
+            {
+                "Лечение и восстановление волос": "https://smolensk.jsprav.ru/lechenie-i-vosstanovlenie-volos/"
+            },
+            {
+                "Лизинговые компании": "https://smolensk.jsprav.ru/lizingovyie-kompanii/"
+            },
+            {
+                "Ломбарды": "https://smolensk.jsprav.ru/lombardyi/"
+            },
+            {
+                "Маркировка товаров и штриховое кодирование": "https://smolensk.jsprav.ru/markirovka-tovarov-i-shtrihovoe-kodirovanie/"
+            },
+            {
+                "Медико-социальная экспертиза": "https://smolensk.jsprav.ru/mediko-sotsialnaya-ekspertiza/"
+            },
+            {
+                "Металлоремонт": "https://smolensk.jsprav.ru/metalloremont/"
+            },
+            {
+                "Меховое ателье": "https://smolensk.jsprav.ru/mehovoe-atele/"
+            },
+            {
+                "Монтаж водоснабжения и канализации": "https://smolensk.jsprav.ru/montazh-vodosnabzheniya-i-kanalizatsii/"
+            },
+            {
+                "Монтаж и установка водостоков и водосточных систем": "https://smolensk.jsprav.ru/montazh-i-ustanovka-vodostokov-i-vodostochnyih-sistem/"
+            },
+            {
+                "Монтаж, обслуживание и установка систем вентиляций и воздуховодов": "https://smolensk.jsprav.ru/montazh-obsluzhivanie-i-ustanovka-sistem-ventilyatsij-i-vozduhovodov/"
+            },
+            {
+                "Налоговые консультанты": "https://smolensk.jsprav.ru/nalogovyie-konsultantyi/"
+            },
+            {
+                "Нанесение гальванических покрытий": "https://smolensk.jsprav.ru/nanesenie-galvanicheskih-pokryitij/"
+            },
+            {
+                "Наращивание волос": "https://smolensk.jsprav.ru/naraschivanie-volos/"
+            },
+            {
+                "Нотариусы и нотариальные услуги": "https://smolensk.jsprav.ru/notarialnyie-uslugi/"
+            },
+            {
+                "Оборудование и монтаж мусоропроводов": "https://smolensk.jsprav.ru/oborudovanie-i-montazh-musoroprovodov/"
+            },
+            {
+                "Оперативная полиграфия": "https://smolensk.jsprav.ru/operativnaya-poligrafiya/"
+            },
+            {
+                "Организация аукционов и тендеров": "https://smolensk.jsprav.ru/organizatsiya-auktsionov-i-tenderov/"
+            },
+            {
+                "Организация и проведение детских праздников": "https://smolensk.jsprav.ru/organizatsiya-i-provedenie-detskih-prazdnikov/"
+            },
+            {
+                "Организация и проведение корпоративных мероприятий и праздников": "https://smolensk.jsprav.ru/organizatsiya-i-provedenie-korporativnyih-meropriyatij-i-prazdnikov/"
+            },
+            {
+                "Организация конференций и семинаров": "https://smolensk.jsprav.ru/organizatsiya-konferentsij-i-seminarov/"
+            },
+            {
+                "Организация шоу, праздников и фестивалей": "https://smolensk.jsprav.ru/organizatsiya-shou-prazdnikov-i-festivalej/"
+            },
+            {
+                "Офисное оборудование": "https://smolensk.jsprav.ru/ofisnoe-oborudovanie/"
+            },
+            {
+                "Офсетная печать": "https://smolensk.jsprav.ru/ofsetnaya-pechat/"
+            },
+            {
+                "Охрана и реставрация памятников": "https://smolensk.jsprav.ru/ohrana-i-restavratsiya-pamyatnikov/"
+            },
+            {
+                "Патентные услуги": "https://smolensk.jsprav.ru/patentnyie-uslugi/"
+            },
+            {
+                "Перевозка почты": "https://smolensk.jsprav.ru/perevozka-pochtyi/"
+            },
+            {
+                "Переплетные мастерские": "https://smolensk.jsprav.ru/perepletnyie-masterskie/"
+            },
+            {
+                "Переработка и утилизация мусора и отходов": "https://smolensk.jsprav.ru/pererabotka-i-utilizatsiya-musora-i-othodov/"
+            },
+            {
+                "Печать брошюр": "https://smolensk.jsprav.ru/pechat-broshyur/"
+            },
+            {
+                "Печать буклетов": "https://smolensk.jsprav.ru/pechat-bukletov/"
+            },
+            {
+                "Печать и изготовление бейджей и бейджиков": "https://smolensk.jsprav.ru/pechat-i-izgotovlenie-bejdzhej-i-bejdzhikov/"
+            },
+            {
+                "Печать на футболках и майках": "https://smolensk.jsprav.ru/pechat-na-futbolkah-i-majkah/"
+            },
+            {
+                "Печать фотографий": "https://smolensk.jsprav.ru/pechat-fotografij/"
+            },
+            {
+                "Плоттерная резка": "https://smolensk.jsprav.ru/plotternaya-rezka/"
+            },
+            {
+                "Подбор и услуги домашнего персонала": "https://smolensk.jsprav.ru/podbor-i-uslugi-domashnego-personala/"
+            },
+            {
+                "Поддержка, раскрутка и продвижение сайтов": "https://smolensk.jsprav.ru/podderzhka-raskrutka-i-prodvizhenie-sajtov/"
+            },
+            {
+                "Подъемные, башенные и строительные краны": "https://smolensk.jsprav.ru/podemnyie-bashennyie-i-stroitelnyie-kranyi/"
+            },
+            {
+                "Полиграфические услуги": "https://smolensk.jsprav.ru/poligraficheskie-uslugi/"
+            },
+            {
+                "Праздничные агентства": "https://smolensk.jsprav.ru/prazdnichnyie-agentstva/"
+            },
+            {
+                "Прачечные": "https://smolensk.jsprav.ru/prachechnyie/"
+            },
+            {
+                "Прием и переработка вторсырья": "https://smolensk.jsprav.ru/priem-i-pererabotka-vtorsyirya/"
+            },
+            {
+                "Продажа бизнесов и франшиз": "https://smolensk.jsprav.ru/prodazha-biznesov/"
+            },
+            {
+                "Продажа и монтаж электрооборудования": "https://smolensk.jsprav.ru/prodazha-i-montazh-elektrooborudovaniya/"
+            },
+            {
+                "Продвижение товаров и услуг": "https://smolensk.jsprav.ru/prodvizhenie-tovarov-i-uslug/"
+            },
+            {
+                "Прокладка и ремонт труб": "https://smolensk.jsprav.ru/prokladka-i-remont-trub/"
+            },
+            {
+                "Прокладка кабелей и оптиволокна": "https://smolensk.jsprav.ru/prokladka-kabelej-i-optivolokna/"
+            },
+            {
+                "Пункты приема макулатуры и вторсырья": "https://smolensk.jsprav.ru/punktyi-priema-makulaturyi-i-vtorsyirya/"
+            },
+            {
+                "Пункты проката": "https://smolensk.jsprav.ru/punktyi-prokata/"
+            },
+            {
+                "Распространение печатной продукции и подписок": "https://smolensk.jsprav.ru/rasprostranenie-pechatnoj-produktsii-i-podpisok/"
+            },
+            {
+                "Регистрация и ликвидация предприятий и фирм": "https://smolensk.jsprav.ru/registratsiya-i-likvidatsiya-predpriyatij/"
+            },
+            {
+                "Регистрация товарного знака": "https://smolensk.jsprav.ru/registratsiya-tovarnogo-znaka/"
+            },
+            {
+                "Реклама в интернете": "https://smolensk.jsprav.ru/reklama-v-internete/"
+            },
+            {
+                "Реклама в подъездах": "https://smolensk.jsprav.ru/reklama-v-podezdah/"
+            },
+            {
+                "Реклама в прессе и печатных изделиях": "https://smolensk.jsprav.ru/reklama-v-presse-i-pechatnyih-izdeliyah/"
+            },
+            {
+                "Реклама на транспорте": "https://smolensk.jsprav.ru/reklama-na-transporte/"
+            },
+            {
+                "Рекламные агентства": "https://smolensk.jsprav.ru/reklamnyie-agentstva/"
+            },
+            {
+                "Ремонт аудиотехники и видеотехники": "https://smolensk.jsprav.ru/remont-audiotehniki-i-videotehniki/"
+            },
+            {
+                "Ремонт бытовой техники": "https://smolensk.jsprav.ru/remont-byitovoj-tehniki/"
+            },
+            {
+                "Ремонт измерительных приборов": "https://smolensk.jsprav.ru/remont-izmeritelnyih-priborov/"
+            },
+            {
+                "Ремонт и обслуживание велосипедов": "https://smolensk.jsprav.ru/remont-i-obsluzhivanie-velosipedov/"
+            },
+            {
+                "Ремонт и обслуживание лифтов": "https://smolensk.jsprav.ru/remont-i-obsluzhivanie-liftov/"
+            },
+            {
+                "Ремонт и обслуживание электрооборудования": "https://smolensk.jsprav.ru/remont-elektrooborudovaniya/"
+            },
+            {
+                "Ремонт и поверка весов": "https://smolensk.jsprav.ru/remont-i-poverka-vesov/"
+            },
+            {
+                "Ремонт кассовых аппаратов": "https://smolensk.jsprav.ru/remont-kassovyih-apparatov/"
+            },
+            {
+                "Ремонт климатических систем": "https://smolensk.jsprav.ru/remont-klimaticheskih-sistem/"
+            },
+            {
+                "Ремонт кожи": "https://smolensk.jsprav.ru/remont-kozhi/"
+            },
+            {
+                "Ремонт медицинской техники": "https://smolensk.jsprav.ru/remont-meditsinskoj-tehniki/"
+            },
+            {
+                "Ремонт музыкальных инструментов": "https://smolensk.jsprav.ru/remont-muzyikalnyih-instrumentov/"
+            },
+            {
+                "Ремонт обуви": "https://smolensk.jsprav.ru/remont-obuvi/"
+            },
+            {
+                "Ремонт оргтехники": "https://smolensk.jsprav.ru/remont-orgtehniki/"
+            },
+            {
+                "Ремонт, перетяжка и реставрация мебели": "https://smolensk.jsprav.ru/remont-peretyazhka-i-restavratsiya-mebeli/"
+            },
+            {
+                "Ремонт планшетов и ноутбуков": "https://smolensk.jsprav.ru/remont-planshetov-i-noutbukov/"
+            },
+            {
+                "Ремонт промышленного оборудования": "https://smolensk.jsprav.ru/remont-promyishlennogo-oborudovaniya/"
+            },
+            {
+                "Ремонт промышленных холодильников": "https://smolensk.jsprav.ru/remont-promyishlennyih-holodilnikov/"
+            },
+            {
+                "Ремонт садовой техники": "https://smolensk.jsprav.ru/remont-sadovoj-tehniki/"
+            },
+            {
+                "Ремонт сельскохозяйственной техники": "https://smolensk.jsprav.ru/remont-selskohozyajstvennoj-tehniki/"
+            },
+            {
+                "Ремонт сотовых и мобильных телефонов": "https://smolensk.jsprav.ru/remont-sotovyih-i-mobilnyih-telefonov/"
+            },
+            {
+                "Ремонт стиральных машин": "https://smolensk.jsprav.ru/remont-stiralnyih-mashin/"
+            },
+            {
+                "Ремонт телевизоров": "https://smolensk.jsprav.ru/remont-televizorov/"
+            },
+            {
+                "Ремонт торгового оборудования": "https://smolensk.jsprav.ru/remont-torgovogo-oborudovaniya/"
+            },
+            {
+                "Ремонт фотоаппаратов": "https://smolensk.jsprav.ru/remont-fotoapparatov/"
+            },
+            {
+                "Ремонт холодильников": "https://smolensk.jsprav.ru/remont-holodilnikov/"
+            },
+            {
+                "Ремонт часов": "https://smolensk.jsprav.ru/remont-chasov/"
+            },
+            {
+                "Ремонт швейных машин": "https://smolensk.jsprav.ru/remont-shvejnyih-mashin/"
+            },
+            {
+                "Ремонт электродвигателей": "https://smolensk.jsprav.ru/remont-elektrodvigatelej/"
+            },
+            {
+                "Ремонт электроизмерительных приборов": "https://smolensk.jsprav.ru/remont-elektroizmeritelnyih-priborov/"
+            },
+            {
+                "Ремонт энергетического оборудования": "https://smolensk.jsprav.ru/remont-energeticheskogo-oborudovaniya/"
+            },
+            {
+                "Ритуальные принадлежности и изготовление венков": "https://smolensk.jsprav.ru/ritualnyie-prinadlezhnosti-i-izgotovlenie-venkov/"
+            },
+            {
+                "Ритуальные услуги": "https://smolensk.jsprav.ru/ritualnyie-uslugi/"
+            },
+            {
+                "Сантехнические работы": "https://smolensk.jsprav.ru/santehnicheskie-rabotyi/"
+            },
+            {
+                "Свадебные агентства": "https://smolensk.jsprav.ru/svadebnyie-agentstva/"
+            },
+            {
+                "Сварочные работы": "https://smolensk.jsprav.ru/svarochnyie-rabotyi/"
+            },
+            {
+                "Световые вывески": "https://smolensk.jsprav.ru/svetovyie-vyiveski/"
+            },
+            {
+                "Семейное консультирование": "https://smolensk.jsprav.ru/semejnoe-konsultirovanie/"
+            },
+            {
+                "Сертификация продукции и услуг": "https://smolensk.jsprav.ru/sertifikatsiya-produktsii-i-uslug/"
+            },
+            {
+                "Склады, складские услуги и услуги хранения": "https://smolensk.jsprav.ru/skladyi-skladskie-uslugi-i-uslugi-hraneniya/"
+            },
+            {
+                "Служба газового хозяйство и газоснабжение": "https://smolensk.jsprav.ru/sluzhba-gazovogo-hozyajstvo-i-gazosnabzhenie/"
+            },
+            {
+                "Снос зданий и сооружений": "https://smolensk.jsprav.ru/snos-zdanij-i-sooruzhenij/"
+            },
+            {
+                "Создание и разработка веб-дизайна": "https://smolensk.jsprav.ru/sozdanie-i-razrabotka-veb-dizajna/"
+            },
+            {
+                "Создание и разработка сайтов": "https://smolensk.jsprav.ru/sozdanie-i-razrabotka-sajtov/"
+            },
+            {
+                "Социологические исследования": "https://smolensk.jsprav.ru/sotsiologicheskie-issledovaniya/"
+            },
+            {
+                "Столовые и организации общественного питания": "https://smolensk.jsprav.ru/stolovyie-i-organizatsii-obschestvennogo-pitaniya/"
+            },
+            {
+                "Студия веб-дизайна": "https://smolensk.jsprav.ru/studiya-veb-dizajna/"
+            },
+            {
+                "Судебно-медицинские экспертизы и заключения": "https://smolensk.jsprav.ru/sudebno-meditsinskie-ekspertizyi-i-zaklyucheniya/"
+            },
+            {
+                "Такелажные работы и услуги": "https://smolensk.jsprav.ru/takelazhnyie-rabotyi-i-uslugi/"
+            },
+            {
+                "Такси": "https://smolensk.jsprav.ru/taksi/"
+            },
+            {
+                "Тату салоны и студии": "https://smolensk.jsprav.ru/tatu-salonyi-i-studii/"
+            },
+            {
+                "Типографии": "https://smolensk.jsprav.ru/tipografii/"
+            },
+            {
+                "Тренинги": "https://smolensk.jsprav.ru/treningi/"
+            },
+            {
+                "Трубочисты": "https://smolensk.jsprav.ru/trubochistyi/"
+            },
+            {
+                "Уборка помещений и клининг": "https://smolensk.jsprav.ru/uborka-pomeschenij-i-klining/"
+            },
+            {
+                "Умный дом и интеллектуальные здания": "https://smolensk.jsprav.ru/umnyij-dom-i-intellektualnyie-zdaniya/"
+            },
+            {
+                "Управленческий консалтинг": "https://smolensk.jsprav.ru/upravlencheskij-konsalting/"
+            },
+            {
+                "Услуги вышивки": "https://smolensk.jsprav.ru/uslugi-vyishivki/"
+            },
+            {
+                "Услуги и агентства интернет-маркетинга": "https://smolensk.jsprav.ru/uslugi-i-agenstva-internet-marketinga/"
+            },
+            {
+                "Услуги компьютерного ремонта": "https://smolensk.jsprav.ru/uslugi-kompyuternogo-remonta/"
+            },
+            {
+                "Услуги лицензирования": "https://smolensk.jsprav.ru/uslugi-litsenzirovaniya/"
+            },
+            {
+                "Услуги переезда и грузчиков": "https://smolensk.jsprav.ru/uslugi-pereezda-i-gruzchikov/"
+            },
+            {
+                "Услуги печати на кружках": "https://smolensk.jsprav.ru/uslugi-pechati-na-kruzhkah/"
+            },
+            {
+                "Услуги по дезинфекции, дезинсекции и дератизации": "https://smolensk.jsprav.ru/uslugi-po-dezinfektsii-dezinsektsii-i-deratizatsii/"
+            },
+            {
+                "Услуги по сборке и установке мебели": "https://smolensk.jsprav.ru/uslugi-po-sborke-i-ustanovke-mebeli/"
+            },
+            {
+                "Услуги стандартизации": "https://smolensk.jsprav.ru/uslugi-standartizatsii/"
+            },
+            {
+                "Услуги фасовки и упаковка товаров": "https://smolensk.jsprav.ru/uslugi-fasovki-i-upakovka-tovarov/"
+            },
+            {
+                "Услуги частных специалистов": "https://smolensk.jsprav.ru/uslugi-chastnyih-spetsialistov/"
+            },
+            {
+                "Установка и подключение домофонов": "https://smolensk.jsprav.ru/ustanovka-i-podklyuchenie-domofonov/"
+            },
+            {
+                "Установка, ремонт и вскрытие замков": "https://smolensk.jsprav.ru/ustanovka-remont-i-vskryitie-zamkov/"
+            },
+            {
+                "Установка, ремонт и вскрытие сейфов": "https://smolensk.jsprav.ru/ustanovka-remont-i-vskryitie-sejfov/"
+            },
+            {
+                "Утилизация отходов": "https://smolensk.jsprav.ru/utilizatsiya-othodov/"
+            },
+            {
+                "Фото на документы": "https://smolensk.jsprav.ru/foto-na-dokumentyi/"
+            },
+            {
+                "Фотореклама": "https://smolensk.jsprav.ru/fotoreklama/"
+            },
+            {
+                "Фотосалоны": "https://smolensk.jsprav.ru/fotosalonyi/"
+            },
+            {
+                "Фотоуслуги": "https://smolensk.jsprav.ru/fotouslugi/"
+            },
+            {
+                "Химчистки": "https://smolensk.jsprav.ru/himchistki/"
+            },
+            {
+                "Хостинг": "https://smolensk.jsprav.ru/hosting/"
+            },
+            {
+                "Чистка и стирка ковров и ковровых покрытий": "https://smolensk.jsprav.ru/chistka-i-stirka-kovrov-i-kovrovyih-pokryitij/"
+            },
+            {
+                "Шелкография": "https://smolensk.jsprav.ru/shelkografiya/"
+            },
+            {
+                "Широкоформатная печать": "https://smolensk.jsprav.ru/shirokoformatnaya-pechat/"
+            },
+            {
+                "Штендеры": "https://smolensk.jsprav.ru/shtenderyi/"
+            },
+            {
+                "Энергосбережение и энергоаудит": "https://smolensk.jsprav.ru/energosberezhenie-i-energoaudit/"
+            },
+            {
+                "Энергосбыт": "https://smolensk.jsprav.ru/energosbyit/"
+            },
+            {
+                "Ювелирные мастерские": "https://smolensk.jsprav.ru/yuvelirnyie-masterskie/"
+            },
+            {
+                "Юридические услуги": "https://smolensk.jsprav.ru/yuridicheskie-uslugi/"
+            },
+            {
+                "Юристы": "https://smolensk.jsprav.ru/yuristyi/"
+            }
+        ]
+    },
+    "Справочно_информационные_системы": {
+        "Справочно-информационные системы в Смоленске": [
+            {
+                "Интернет-порталы": "https://smolensk.jsprav.ru/internet-portalyi/"
+            },
+            {
+                "Информационные агентства": "https://smolensk.jsprav.ru/informatsionnyie-agentstva/"
+            },
+            {
+                "Информационные сайты": "https://smolensk.jsprav.ru/informatsionnyij-internet-sajtyi/"
+            },
+            {
+                "Информационные службы": "https://smolensk.jsprav.ru/informatsionnyie-sluzhbyi/"
+            },
+            {
+                "Справочная аптек": "https://smolensk.jsprav.ru/spravochnaya-aptek/"
+            },
+            {
+                "Справочники": "https://smolensk.jsprav.ru/spravochniki/"
+            },
+            {
+                "Электронные торговые площадки": "https://smolensk.jsprav.ru/elektronnyie-torgovyie-ploschadki/"
+            }
+        ]
+    },
+    "Отдых_и_развлечения": {
+        "Отдых и развлечения в Смоленске": [
+            {
+                "Аквапарки": "https://smolensk.jsprav.ru/akvaparki/"
+            },
+            {
+                "Антикафе": "https://smolensk.jsprav.ru/antikafe/"
+            },
+            {
+                "Аттракционы": "https://smolensk.jsprav.ru/attraktsionyi/"
+            },
+            {
+                "Базы отдыха": "https://smolensk.jsprav.ru/bazyi-otdyiha/"
+            },
+            {
+                "Банкетные залы": "https://smolensk.jsprav.ru/banketnyie-zalyi/"
+            },
+            {
+                "Бары": "https://smolensk.jsprav.ru/baryi/"
+            },
+            {
+                "Бильярд": "https://smolensk.jsprav.ru/bilyard/"
+            },
+            {
+                "Бильярдные клубы": "https://smolensk.jsprav.ru/bilyardnyie-klubyi/"
+            },
+            {
+                "Боулинг": "https://smolensk.jsprav.ru/bouling/"
+            },
+            {
+                "Велоцентры": "https://smolensk.jsprav.ru/velotsentryi/"
+            },
+            {
+                "Выставки": "https://smolensk.jsprav.ru/vyistavki/"
+            },
+            {
+                "Геральдика и генеалогия": "https://smolensk.jsprav.ru/geraldika-i-genealogiya/"
+            },
+            {
+                "Дворцы и дома культуры": "https://smolensk.jsprav.ru/dvortsyi-i-doma-kulturyi/"
+            },
+            {
+                "Деловой и корпоративный туризм": "https://smolensk.jsprav.ru/delovoj-i-korporativnyij-turizm/"
+            },
+            {
+                "Дельфинарии и океанариумы": "https://smolensk.jsprav.ru/delfinarii-okeanariumyi/"
+            },
+            {
+                "Детские лагеря отдыха": "https://smolensk.jsprav.ru/detskie-lagerya-otdyiha/"
+            },
+            {
+                "Детский оздоровительные и спортивные лагеря отдыха": "https://smolensk.jsprav.ru/detskij-ozdorovitelnyie-i-sportivnyie-lagerya-otdyiha/"
+            },
+            {
+                "Детский развлекательный центр": "https://smolensk.jsprav.ru/detskij-razvlekatelnyij-tsentr/"
+            },
+            {
+                "Дискотеки": "https://smolensk.jsprav.ru/diskoteki/"
+            },
+            {
+                "Загородный отдых": "https://smolensk.jsprav.ru/zagorodnyij-otdyih/"
+            },
+            {
+                "Занятия йогой": "https://smolensk.jsprav.ru/zanyatiya-jogoj/"
+            },
+            {
+                "Зимние сады, веранды, террасы": "https://smolensk.jsprav.ru/zimnie-sadyi-verandyi-terrasyi/"
+            },
+            {
+                "Зоны отдыха": "https://smolensk.jsprav.ru/zonyi-otdyiha/"
+            },
+            {
+                "Зоопарки": "https://smolensk.jsprav.ru/zooparki/"
+            },
+            {
+                "Интернет-кафе": "https://smolensk.jsprav.ru/internet-kafe/"
+            },
+            {
+                "Интернет-кафе и клубы": "https://smolensk.jsprav.ru/internet-kafe-i-klubyi/"
+            },
+            {
+                "Кальян-бары": "https://smolensk.jsprav.ru/kalyan-baryi/"
+            },
+            {
+                "Караоке-клубы": "https://smolensk.jsprav.ru/karaoke-klubyi/"
+            },
+            {
+                "Кафе": "https://smolensk.jsprav.ru/kafe/"
+            },
+            {
+                "Квесты в реальности": "https://smolensk.jsprav.ru/kvestyi-v-realnosti/"
+            },
+            {
+                "Кейтеринг": "https://smolensk.jsprav.ru/kejtering/"
+            },
+            {
+                "Кинотеатры": "https://smolensk.jsprav.ru/kinoteatryi/"
+            },
+            {
+                "Клуб охотников и рыболовов": "https://smolensk.jsprav.ru/klub-ohotnikov-i-ryibolovov/"
+            },
+            {
+                "Клубы досуга": "https://smolensk.jsprav.ru/klubyi-dosuga/"
+            },
+            {
+                "Концертные залы": "https://smolensk.jsprav.ru/kontsertnyie-zalyi/"
+            },
+            {
+                "Концертные и театральные агентства": "https://smolensk.jsprav.ru/kontsertnyie-i-teatralnyie-agentstva/"
+            },
+            {
+                "Кофейни": "https://smolensk.jsprav.ru/kofejni/"
+            },
+            {
+                "Культурные центры": "https://smolensk.jsprav.ru/kulturnyie-tsentryi/"
+            },
+            {
+                "Лесопарки": "https://smolensk.jsprav.ru/lesoparki/"
+            },
+            {
+                "Массажные салоны": "https://smolensk.jsprav.ru/massazhnyie-salonyi/"
+            },
+            {
+                "Музеи": "https://smolensk.jsprav.ru/muzei/"
+            },
+            {
+                "Музыкальные клубы": "https://smolensk.jsprav.ru/muzyikalnyie-klubyi/"
+            },
+            {
+                "Ночные клубы": "https://smolensk.jsprav.ru/nochnyie-klubyi/"
+            },
+            {
+                "Общества охотников и рыболовов": "https://smolensk.jsprav.ru/obschestva-ohotnikov-i-ryibolovov/"
+            },
+            {
+                "Отдых на ферме": "https://smolensk.jsprav.ru/otdyih-na-ferme/"
+            },
+            {
+                "Охотничьи хозяйства": "https://smolensk.jsprav.ru/ohotnichi-hozyajstva/"
+            },
+            {
+                "Пабы": "https://smolensk.jsprav.ru/pabyi/"
+            },
+            {
+                "Парки аттракционов": "https://smolensk.jsprav.ru/park-attraktsionov/"
+            },
+            {
+                "Парки культуры и отдыха": "https://smolensk.jsprav.ru/parki-kulturyi-i-otdyiha/"
+            },
+            {
+                "Пиццерии": "https://smolensk.jsprav.ru/pitstserii/"
+            },
+            {
+                "Развлекательные центры": "https://smolensk.jsprav.ru/razvlekatelnyie-tsentryi/"
+            },
+            {
+                "Рестораны, кафе, бары": "https://smolensk.jsprav.ru/restoranyi-kafe-baryi/"
+            },
+            {
+                "Санатории, пансионаты и профилактории": "https://smolensk.jsprav.ru/sanatorii-i-profilaktorii/"
+            },
+            {
+                "Спорт-бары": "https://smolensk.jsprav.ru/sport-baryi/"
+            },
+            {
+                "Спортзалы": "https://smolensk.jsprav.ru/sportzalyi/"
+            },
+            {
+                "Спортивно-развлекательные центры": "https://smolensk.jsprav.ru/sportivno-razvlekatelnyie-tsentryi/"
+            },
+            {
+                "Спортивные базы": "https://smolensk.jsprav.ru/sportivnyie-bazyi/"
+            },
+            {
+                "Страйкбол, пейнтбол и лазертег": "https://smolensk.jsprav.ru/strajkbol-pejntbol-i-lazerteg/"
+            },
+            {
+                "Стрелковые клубы и тиры": "https://smolensk.jsprav.ru/strelkovyie-klubyi-i-tiryi/"
+            },
+            {
+                "Суши-бары": "https://smolensk.jsprav.ru/sushi-baryi/"
+            },
+            {
+                "Театры": "https://smolensk.jsprav.ru/teatryi/"
+            },
+            {
+                "Теннисные клубы": "https://smolensk.jsprav.ru/tennisnyie-klubyi/"
+            },
+            {
+                "Товары для отдыха и туризма": "https://smolensk.jsprav.ru/tovaryi-dlya-otdyiha-i-turizma/"
+            },
+            {
+                "Товары для охоты": "https://smolensk.jsprav.ru/tovaryi-dlya-ohotyi/"
+            },
+            {
+                "Товары для рыбалки": "https://smolensk.jsprav.ru/tovaryi-dlya-ryibalki/"
+            },
+            {
+                "Товары для творчества и рукоделия": "https://smolensk.jsprav.ru/tovaryi-dlya-tvorchestva-i-rukodeliya/"
+            },
+            {
+                "Фастфуд": "https://smolensk.jsprav.ru/fastfud/"
+            },
+            {
+                "Цирки": "https://smolensk.jsprav.ru/tsirki/"
+            },
+            {
+                "Школы джаз фанка": "https://smolensk.jsprav.ru/shkolyi-dzhaz-fanka/"
+            },
+            {
+                "Школы танцев": "https://smolensk.jsprav.ru/shkolyi-tantsev/"
+            },
+            {
+                "Школы хип-хопа": "https://smolensk.jsprav.ru/shkolyi-hip-hopa/"
+            }
+        ]
+    },
+    "Красота_и_здоровье": {
+        "Красота и здоровье в Смоленске": [
+            {
+                "Визажисты и стилисты": "https://smolensk.jsprav.ru/vizazhistyi-i-stilistyi/"
+            },
+            {
+                "Косметические салоны": "https://smolensk.jsprav.ru/kosmeticheskie-salonyi/"
+            },
+            {
+                "Косметологические кабинеты": "https://smolensk.jsprav.ru/kosmetologicheskie-kabinetyi/"
+            },
+            {
+                "Ногтевые и маникюрные студии": "https://smolensk.jsprav.ru/nogtevyie-i-manikyurnyie-studii-/"
+            },
+            {
+                "Парикмахерские": "https://smolensk.jsprav.ru/parikmaherskie/"
+            },
+            {
+                "Парфюмерные и косметические компании": "https://smolensk.jsprav.ru/kosmeticheskie-kompanii/"
+            },
+            {
+                "Парфюмерные магазины": "https://smolensk.jsprav.ru/parfyumernyie-magazinyi/"
+            },
+            {
+                "Салоны красоты": "https://smolensk.jsprav.ru/salonyi-krasotyi/"
+            },
+            {
+                "Солярии": "https://smolensk.jsprav.ru/solyarii/"
+            },
+            {
+                "СПА-салоны": "https://smolensk.jsprav.ru/spa-salonyi/"
+            }
+        ]
+    },
+    "Медицина_и_фармацевтика": {
+        "Медицина и фармацевтика в Смоленске": [
+            {
+                "Анонимные медицинские обследования": "https://smolensk.jsprav.ru/anonimnyie-meditsinskie-obsledovaniya/"
+            },
+            {
+                "Аптеки": "https://smolensk.jsprav.ru/apteki/"
+            },
+            {
+                "Больницы": "https://smolensk.jsprav.ru/bolnitsyi/"
+            },
+            {
+                "Больницы для взрослых": "https://smolensk.jsprav.ru/bolnitsyi-dlya-vzroslyih/"
+            },
+            {
+                "Гинекологическая клиника и центры": "https://smolensk.jsprav.ru/ginekologicheskaya-klinika-i-tsentryi/"
+            },
+            {
+                "Гомеопаты и центры гомеопатии": "https://smolensk.jsprav.ru/gomeopatyi-i-tsentryi-gomeopatii/"
+            },
+            {
+                "Городские больницы": "https://smolensk.jsprav.ru/gorodskie-bolnitsyi/"
+            },
+            {
+                "Госпитали": "https://smolensk.jsprav.ru/gospitali/"
+            },
+            {
+                "Детская скорая помощь": "https://smolensk.jsprav.ru/detskaya-skoraya-pomosch/"
+            },
+            {
+                "Детские больницы": "https://smolensk.jsprav.ru/detskie-bolnitsyi/"
+            },
+            {
+                "Детские поликлиники": "https://smolensk.jsprav.ru/detskie-polikliniki/"
+            },
+            {
+                "Диагностические препараты и приборы": "https://smolensk.jsprav.ru/diagnosticheskie-preparatyi-i-priboryi/"
+            },
+            {
+                "Диагностические центры": "https://smolensk.jsprav.ru/diagnosticheskie-tsentryi/"
+            },
+            {
+                "Диспансеры": "https://smolensk.jsprav.ru/dispanseryi/"
+            },
+            {
+                "Диспансеры врачебно-физкультурный": "https://smolensk.jsprav.ru/dispanseryi-vrachebno-fizkulturnyij/"
+            },
+            {
+                "Женские консультации": "https://smolensk.jsprav.ru/zhenskie-konsultatsii/"
+            },
+            {
+                "Изготовление протезов": "https://smolensk.jsprav.ru/izgotovlenie-protezov/"
+            },
+            {
+                "Инвалидная техника, товары для инвалидов, средства реабилитации": "https://smolensk.jsprav.ru/invalidnaya-tehnika-tovaryi-dlya-invalidov/"
+            },
+            {
+                "Кардиологические центры и клиники": "https://smolensk.jsprav.ru/kardiologicheskie-tsentryi-i-kliniki/"
+            },
+            {
+                "Кожно-венерологические диспансеры": "https://smolensk.jsprav.ru/kozhno-venerologicheskie-dispanseryi/"
+            },
+            {
+                "Косметология": "https://smolensk.jsprav.ru/kosmetologiya/"
+            },
+            {
+                "Магазины и салоны оптики": "https://smolensk.jsprav.ru/magazin-optiki/"
+            },
+            {
+                "Магазины медтехники и медицинских товаров": "https://smolensk.jsprav.ru/magazinyi-medtehniki-i-meditsinskih-tovarov/"
+            },
+            {
+                "Магазины слуховых аппаратов": "https://smolensk.jsprav.ru/magazinyi-sluhovyih-apparatov/"
+            },
+            {
+                "Медицинская мебель": "https://smolensk.jsprav.ru/meditsinskaya-mebel/"
+            },
+            {
+                "Медицинская помощь на дому": "https://smolensk.jsprav.ru/meditsinskaya-pomosch-na-domu/"
+            },
+            {
+                "Медицинские комиссии": "https://smolensk.jsprav.ru/meditsinskie-komissii/"
+            },
+            {
+                "Медицинские лаборатории": "https://smolensk.jsprav.ru/meditsinskie-laboratorii/"
+            },
+            {
+                "Медицинские расходные материалы": "https://smolensk.jsprav.ru/meditsinskie-rashodnyie-materialyi/"
+            },
+            {
+                "Медцентры и клиники": "https://smolensk.jsprav.ru/medtsentryi-i-kliniki/"
+            },
+            {
+                "Морги": "https://smolensk.jsprav.ru/morgi/"
+            },
+            {
+                "Наркологические диспансеры и клиники": "https://smolensk.jsprav.ru/narkologicheskie-dispanseryi-i-bolnitsyi/"
+            },
+            {
+                "Нетрадиционная медицина": "https://smolensk.jsprav.ru/netraditsionnaya-meditsina/"
+            },
+            {
+                "Областные больницы": "https://smolensk.jsprav.ru/oblastnyie-bolnitsyi/"
+            },
+            {
+                "Онкологические диспансеры": "https://smolensk.jsprav.ru/onkologicheskie-dispanseryi/"
+            },
+            {
+                "Ортодонтия и исправление прикуса": "https://smolensk.jsprav.ru/ortodontiya-i-ispravlenie-prikusa/"
+            },
+            {
+                "Перевозка больных и госпитализация": "https://smolensk.jsprav.ru/perevozka-bolnyih-i-gospitalizatsiya/"
+            },
+            {
+                "Поликлиники": "https://smolensk.jsprav.ru/polikliniki/"
+            },
+            {
+                "Поликлиники для взрослых": "https://smolensk.jsprav.ru/polikliniki-dlya-vzroslyih/"
+            },
+            {
+                "Продажа медицинского оборудования и медтехники": "https://smolensk.jsprav.ru/prodazha-meditsinskogo-oborudovaniya-i-medtehniki/"
+            },
+            {
+                "Производство и продажа медицинских изделий": "https://smolensk.jsprav.ru/proizvodstvo-i-prodazha-meditsinskih-izdelij/"
+            },
+            {
+                "Противотуберкулезные диспансеры и больницы": "https://smolensk.jsprav.ru/protivotuberkuleznyie-dispanseryi-i-bolnitsyi/"
+            },
+            {
+                "Психологические службы и центры": "https://smolensk.jsprav.ru/psihologicheskie-sluzhbyi-i-tsentryi/"
+            },
+            {
+                "Психоневрологические диспансеры и больницы": "https://smolensk.jsprav.ru/psihonevrologicheskie-dispanseryi-i-bolnitsyi/"
+            },
+            {
+                "Психотерапевтические центры и клиники": "https://smolensk.jsprav.ru/psihoterapevticheskie-tsentryi-i-kliniki/"
+            },
+            {
+                "Реабилитационные центры": "https://smolensk.jsprav.ru/reabilitatsionnyie-tsentryi/"
+            },
+            {
+                "Родильные дома": "https://smolensk.jsprav.ru/rodilnyie-doma/"
+            },
+            {
+                "Скорая помощь": "https://smolensk.jsprav.ru/skoraya-pomosch/"
+            },
+            {
+                "Стоматологические клиники": "https://smolensk.jsprav.ru/stomatologicheskie-kliniki/"
+            },
+            {
+                "Стоматологические поликлиники": "https://smolensk.jsprav.ru/stomatologicheskie-polikliniki/"
+            },
+            {
+                "Стоматология": "https://smolensk.jsprav.ru/stomatologiya/"
+            },
+            {
+                "Товары для здоровья": "https://smolensk.jsprav.ru/tovaryi-dlya-zdorovya/"
+            },
+            {
+                "Травмпункты": "https://smolensk.jsprav.ru/travmpunktyi/"
+            },
+            {
+                "Урологические центр и клиники": "https://smolensk.jsprav.ru/urologicheskie-tsentr-i-kliniki/"
+            },
+            {
+                "Фармацевтические компании": "https://smolensk.jsprav.ru/farmatsevticheskie-kompanii/"
+            },
+            {
+                "Фиточаи и бады": "https://smolensk.jsprav.ru/fitochai-i-badyi/"
+            },
+            {
+                "Центры и клиники коррекции зрения": "https://smolensk.jsprav.ru/tsentryi-i-kliniki-korrektsii-zreniya/"
+            },
+            {
+                "Центры профилактики СПИДа и ВИЧа": "https://smolensk.jsprav.ru/tsentryi-profilaktiki-spida-i-vicha/"
+            },
+            {
+                "Частно-практикующие врачи": "https://smolensk.jsprav.ru/chastno-praktikuyuschie-vrachi/"
+            }
+        ]
+    },
+    "Финансы_и_страхование": {
+        "Финансы и страхование в Смоленске": [
+            {
+                "Forex": "https://smolensk.jsprav.ru/forex/"
+            },
+            {
+                "Банки": "https://smolensk.jsprav.ru/banki/"
+            },
+            {
+                "Банковское оборудование": "https://smolensk.jsprav.ru/bankovskoe-oborudovanie/"
+            },
+            {
+                "Банкоматы": "https://smolensk.jsprav.ru/bankomatyi/"
+            },
+            {
+                "Внешнеторговые и внешнеэкономические организации": "https://smolensk.jsprav.ru/vneshnetorgovyie-i-vneshneekonomicheskie-organizatsii/"
+            },
+            {
+                "Денежные переводы": "https://smolensk.jsprav.ru/denezhnyie-perevodyi/"
+            },
+            {
+                "Деньги в долг": "https://smolensk.jsprav.ru/dengi-v-dolg/"
+            },
+            {
+                "Депозитарии, регистраторы и реестродержатели": "https://smolensk.jsprav.ru/depozitarii-registratoryi-i-reestroderzhateli/"
+            },
+            {
+                "Дилинговые центры и форекс брокеры": "https://smolensk.jsprav.ru/dilingovyie-tsentryi-i-foreks-brokeryi/"
+            },
+            {
+                "Инвестиционные фонды и компании": "https://smolensk.jsprav.ru/investitsionnyie-fondyi-i-kompanii/"
+            },
+            {
+                "Ипотечное агентства, брокеры и центры": "https://smolensk.jsprav.ru/ipotechnoe-agentstva-brokeryi-i-tsentryi/"
+            },
+            {
+                "Кассовые аппараты и фискальные регистраторы": "https://smolensk.jsprav.ru/kassovyie-apparatyi-i-fiskalnyie-registratoryi/"
+            },
+            {
+                "Кредитные брокеры": "https://smolensk.jsprav.ru/kreditnyie-brokeryi/"
+            },
+            {
+                "Лизинг и лизинговые услуги": "https://smolensk.jsprav.ru/lizing-i-lizingovyie-uslugi/"
+            },
+            {
+                "Лизинг спецтехники": "https://smolensk.jsprav.ru/lizing-spetstehniki/"
+            },
+            {
+                "Маркетинговые исследования и услуги": "https://smolensk.jsprav.ru/marketingovyie-issledovaniya-i-uslugi/"
+            },
+            {
+                "Микрозаймы и кредитные кооперативы": "https://smolensk.jsprav.ru/mmikrozajmyi-i-kreditnyie-kooperativyi/"
+            },
+            {
+                "Негосударственные пенсионные фонды": "https://smolensk.jsprav.ru/negosudarstvennyie-pensionnyie-fondyi/"
+            },
+            {
+                "Обмен валют": "https://smolensk.jsprav.ru/obmen-valyut/"
+            },
+            {
+                "Операции с ценными бумагами": "https://smolensk.jsprav.ru/operatsii-s-tsennyimi-bumagami/"
+            },
+            {
+                "Оценочные компании и агентства": "https://smolensk.jsprav.ru/otsenochnyie-kompanii-i-agenstva/"
+            },
+            {
+                "Платёжные терминалы": "https://smolensk.jsprav.ru/platyozhnyie-terminalyi/"
+            },
+            {
+                "Расчетно-кассовые центры": "https://smolensk.jsprav.ru/raschetno-kassovyie-tsentryi/"
+            },
+            {
+                "Страховые брокеры и агентства": "https://smolensk.jsprav.ru/strahovyie-brokeryi-i-agenstva/"
+            },
+            {
+                "Страховые компании и организации": "https://smolensk.jsprav.ru/strahovyie-kompanii-i-organizatsii/"
+            },
+            {
+                "Счетчики денег, детекторы и упаковщики банкнот": "https://smolensk.jsprav.ru/schetchiki-deneg-detektoryi-i-upakovschiki-banknot/"
+            },
+            {
+                "Услуги бизнес консалтинга": "https://smolensk.jsprav.ru/uslugi-biznes-konsaltinga/"
+            },
+            {
+                "Финансовые организации и предприятия": "https://smolensk.jsprav.ru/finansovyie-organizatsii-i-predpriyatiya/"
+            },
+            {
+                "Финансовый консалтинг": "https://smolensk.jsprav.ru/finansovyij-konsalting/"
+            },
+            {
+                "Экономическая безопасность": "https://smolensk.jsprav.ru/ekonomicheskaya-bezopasnost/"
+            },
+            {
+                "Электронные платежные системы": "https://smolensk.jsprav.ru/elektronnyie-platezhnyie-sistemyi/"
+            }
+        ]
+    },
+    "Магазины": {
+        "Магазины в Смоленске": [
+            {
+                "Агрофирмы, колхозы, совхозы": "https://smolensk.jsprav.ru/agrofirmyi-kolhozyi-sovhozyi/"
+            },
+            {
+                "Аудио- и видеопродукция": "https://smolensk.jsprav.ru/audio-i-videoproduktsiya/"
+            },
+            {
+                "Бизнес-сувениры": "https://smolensk.jsprav.ru/biznes-suveniryi/"
+            },
+            {
+                "Букинистические магазины": "https://smolensk.jsprav.ru/bukinisticheskie-magazinyi/"
+            },
+            {
+                "Булочные и кондитерские магазины": "https://smolensk.jsprav.ru/bulochnyie-i-konditerskie-magazinyi/"
+            },
+            {
+                "Бутики": "https://smolensk.jsprav.ru/butiki/"
+            },
+            {
+                "Веломагазины": "https://smolensk.jsprav.ru/velomagazinyi/"
+            },
+            {
+                "Вещевые рынки": "https://smolensk.jsprav.ru/veschevyie-ryinki/"
+            },
+            {
+                "Гипермаркеты": "https://smolensk.jsprav.ru/gipermarketyi/"
+            },
+            {
+                "Дайвинг и подводная охота": "https://smolensk.jsprav.ru/dajving-i-podvodnaya-ohota/"
+            },
+            {
+                "Детские магазины": "https://smolensk.jsprav.ru/detskie-magazinyi/"
+            },
+            {
+                "Детское игровое оборудование": "https://smolensk.jsprav.ru/detskoe-igrovoe-oborudovanie/"
+            },
+            {
+                "Дома моды": "https://smolensk.jsprav.ru/doma-modyi/"
+            },
+            {
+                "Заказ и доставка тортов": "https://smolensk.jsprav.ru/zakaz-i-dostavka-tortov/"
+            },
+            {
+                "Интернет-магазины": "https://smolensk.jsprav.ru/internet-magazinyi/"
+            },
+            {
+                "Клининговое оборудование и инвентарь": "https://smolensk.jsprav.ru/kliningovoe-oborudovanie-i-inventar/"
+            },
+            {
+                "Книжные магазины": "https://smolensk.jsprav.ru/knizhnyie-magazinyi/"
+            },
+            {
+                "Комиссионные магазины": "https://smolensk.jsprav.ru/komissionnyie-magazinyi/"
+            },
+            {
+                "Компьютерные магазины": "https://smolensk.jsprav.ru/kompyuternyie-magazinyi/"
+            },
+            {
+                "Кондитерские магазины": "https://smolensk.jsprav.ru/konditerskie-magazinyi/"
+            },
+            {
+                "Корпусная мебель": "https://smolensk.jsprav.ru/korpusnaya-mebel/"
+            },
+            {
+                "Лесозаготовка и продажа леса": "https://smolensk.jsprav.ru/lesozagotovka-i-prodazha-lesa/"
+            },
+            {
+                "Магазин елочных игрушек и искусственных елок": "https://smolensk.jsprav.ru/magazin-elochnyih-igrushek-i-iskusstvennyih-elok/"
+            },
+            {
+                "Магазин клеящих веществ и материалов": "https://smolensk.jsprav.ru/magazin-kleyaschih-veschestv-i-materialov/"
+            },
+            {
+                "Магазин кожи и кожаных изделий": "https://smolensk.jsprav.ru/magazin-kozhi-i-kozhanyih-izdelij/"
+            },
+            {
+                "Магазин кофемашин и кофейных автоматов": "https://smolensk.jsprav.ru/magazin-kofemashin-i-kofejnyih-avtomatov/"
+            },
+            {
+                "Магазин мебельной фурнитуры и комплектующих": "https://smolensk.jsprav.ru/magazin-mebelnoj-furnituryi-i-komplektuyuschih/"
+            },
+            {
+                "Магазин ниток и пряжи": "https://smolensk.jsprav.ru/magazin-nitok-i-pryazhi/"
+            },
+            {
+                "Магазин подшипников": "https://smolensk.jsprav.ru/magazin-podshipnikov/"
+            },
+            {
+                "Магазин радиотелефонов": "https://smolensk.jsprav.ru/magazin-radiotelefonov/"
+            },
+            {
+                "Магазин химических реактивов": "https://smolensk.jsprav.ru/magazin-himicheskih-reaktivov/"
+            },
+            {
+                "Магазины cd и dvd дисков": "https://smolensk.jsprav.ru/magazin-cd-i-dvd-diskov/"
+            },
+            {
+                "Магазины аквариумов": "https://smolensk.jsprav.ru/magazin-akvariumov/"
+            },
+            {
+                "Магазины аксессуаров для телефонов": "https://smolensk.jsprav.ru/magazinyi-aksessuarov-dlya-telefonov/"
+            },
+            {
+                "Магазины акустических систем": "https://smolensk.jsprav.ru/magazinyi-akusticheskih-sistem/"
+            },
+            {
+                "Магазины алкогольных и спиртных напитков": "https://smolensk.jsprav.ru/magazinyi-alkogolnyih-i-spirtnyih-napitkov/"
+            },
+            {
+                "Магазины антиквариата": "https://smolensk.jsprav.ru/magazinyi-antikvariata/"
+            },
+            {
+                "Магазины белья и купальников": "https://smolensk.jsprav.ru/magazinyi-belya-i-kupalnikov/"
+            },
+            {
+                "Магазины бижутерии": "https://smolensk.jsprav.ru/magazin-bizhuterii/"
+            },
+            {
+                "Магазины бильярда": "https://smolensk.jsprav.ru/magazinyi-bilyarda/"
+            },
+            {
+                "Магазины бондарных изделий": "https://smolensk.jsprav.ru/magazinyi-bondarnyih-izdelij/"
+            },
+            {
+                "Магазины бытовой техники": "https://smolensk.jsprav.ru/magazinyi-byitovoj-tehniki/"
+            },
+            {
+                "Магазины верхней одежды": "https://smolensk.jsprav.ru/magazin-verhnej-odezhdyi/"
+            },
+            {
+                "Магазины воды": "https://smolensk.jsprav.ru/magazinyi-vodyi/"
+            },
+            {
+                "Магазины военной формы и камуфляжа": "https://smolensk.jsprav.ru/magazinyi-voennoj-formyi-i-kamuflyazha/"
+            },
+            {
+                "Магазины воздушных шаров": "https://smolensk.jsprav.ru/magazinyi-vozdushnyih-sharov/"
+            },
+            {
+                "Магазины газовых плит": "https://smolensk.jsprav.ru/magazinyi-gazovyih-plit/"
+            },
+            {
+                "Магазины галантереи и аксессуаров": "https://smolensk.jsprav.ru/magazinyi-galanterei-i-aksessuarov/"
+            },
+            {
+                "Магазины головных уборов": "https://smolensk.jsprav.ru/magazinyi-golovnyih-uborov/"
+            },
+            {
+                "Магазины детских игрушек и игр": "https://smolensk.jsprav.ru/magazinyi-detskih-igrushek-i-igr/"
+            },
+            {
+                "Магазины детских товаров": "https://smolensk.jsprav.ru/magazinyi-detskih-tovarov/"
+            },
+            {
+                "Магазины детского питания": "https://smolensk.jsprav.ru/magazinyi-detskogo-pitaniya/"
+            },
+            {
+                "Магазины детской мебели": "https://smolensk.jsprav.ru/magazinyi-detskoj-mebeli/"
+            },
+            {
+                "Магазины детской обуви": "https://smolensk.jsprav.ru/magazinyi-detskoj-obuvi/"
+            },
+            {
+                "Магазины детской одежды": "https://smolensk.jsprav.ru/magazin-detskoj-odezhdyi/"
+            },
+            {
+                "Магазины джинсовой одежды": "https://smolensk.jsprav.ru/magazin-dzhinsovoj-odezhdyi/"
+            },
+            {
+                "Магазины диетических и диабетических продуктов": "https://smolensk.jsprav.ru/magazin-dieticheskih-i-diabeticheskih-produktov/"
+            },
+            {
+                "Магазины для будущих мам": "https://smolensk.jsprav.ru/magazinyi-dlya-buduschih-mam/"
+            },
+            {
+                "Магазины домашних кинотеатров и проекторов": "https://smolensk.jsprav.ru/magazinyi-domashnih-kinoteatrov-i-proektorov/"
+            },
+            {
+                "Магазины замков и запорных устройств": "https://smolensk.jsprav.ru/magazinyi-zamkov-i-zapornyih-ustrojstv/"
+            },
+            {
+                "Магазины звукового и светового оборудования": "https://smolensk.jsprav.ru/magazin-zvukovogo-i-svetovogo-oborudovaniya/"
+            },
+            {
+                "Магазины игрушек": "https://smolensk.jsprav.ru/magazinyi-igrushek/"
+            },
+            {
+                "Магазины изделий из камня": "https://smolensk.jsprav.ru/magazinyi-izdelij-iz-kamnya/"
+            },
+            {
+                "Магазины и салоны очков и оправ": "https://smolensk.jsprav.ru/magazinyi-i-salonyi-ochkov-i-oprav/"
+            },
+            {
+                "Магазины каминов и печей": "https://smolensk.jsprav.ru/magazinyi-kaminov-i-pechej/"
+            },
+            {
+                "Магазины канцтоваров": "https://smolensk.jsprav.ru/magazinyi-kantstovarov/"
+            },
+            {
+                "Магазины керамической плитки": "https://smolensk.jsprav.ru/magazinyi-keramicheskoj-plitki/"
+            },
+            {
+                "Магазины ковров и ковровых покрытий": "https://smolensk.jsprav.ru/magazinyi-kovrov-i-kovrovyih-pokryitij/"
+            },
+            {
+                "Магазины кожи и меха": "https://smolensk.jsprav.ru/magazinyi-kozhi-i-meha/"
+            },
+            {
+                "Магазины колбас и колбасных изделий": "https://smolensk.jsprav.ru/magazinyi-kolbas-i-kolbasnyih-izdelij/"
+            },
+            {
+                "Магазины компьютерных аксессуаров и периферии": "https://smolensk.jsprav.ru/magazinyi-kompyuternyih-aksessuarov-i-periferii/"
+            },
+            {
+                "Магазины контактных линз": "https://smolensk.jsprav.ru/magazinyi-kontaktnyih-linz/"
+            },
+            {
+                "Магазины косметики": "https://smolensk.jsprav.ru/magazinyi-kosmetiki/"
+            },
+            {
+                "Магазины крепежа и крепежного оборудования": "https://smolensk.jsprav.ru/magazinyi-krepezha-i-krepezhnogo-oborudovaniya/"
+            },
+            {
+                "Магазины кухонной мебели": "https://smolensk.jsprav.ru/magazinyi-kuhonnoj-mebeli/"
+            },
+            {
+                "Магазины линолеума": "https://smolensk.jsprav.ru/magazinyi-linoleuma/"
+            },
+            {
+                "Магазины матрасов": "https://smolensk.jsprav.ru/magazinyi-matrasov/"
+            },
+            {
+                "Магазины мебели": "https://smolensk.jsprav.ru/magazinyi-mebeli/"
+            },
+            {
+                "Магазины мебели для ванных комнат": "https://smolensk.jsprav.ru/magazinyi-mebeli-dlya-vannyih-komnat/"
+            },
+            {
+                "Магазины металлической мебели": "https://smolensk.jsprav.ru/magazinyi-metallicheskoj-mebeli/"
+            },
+            {
+                "Магазины металлоискателей и металлодетекторов": "https://smolensk.jsprav.ru/magazinyi-metalloiskatelej-i-metallodetektorov/"
+            },
+            {
+                "Магазины метизов и метизной продукции": "https://smolensk.jsprav.ru/magazinyi-metizov-i-metiznoj-produktsii/"
+            },
+            {
+                "Магазины мехов и меховых изделий": "https://smolensk.jsprav.ru/magazinyi-mehov-i-mehovyih-izdelij/"
+            },
+            {
+                "Магазины мороженого": "https://smolensk.jsprav.ru/magazinyi-morozhenogo/"
+            },
+            {
+                "Магазины мужской одежды": "https://smolensk.jsprav.ru/magazinyi-muzhskoj-odezhdyi/"
+            },
+            {
+                "Магазины музыкальных инструментов": "https://smolensk.jsprav.ru/magazinyi-muzyikalnyih-instrumentov/"
+            },
+            {
+                "Магазины мягкой мебели": "https://smolensk.jsprav.ru/magazinyi-myagkoj-mebeli/"
+            },
+            {
+                "Магазины мяса и деликатесов": "https://smolensk.jsprav.ru/magazinyi-myasa-i-delikatesov/"
+            },
+            {
+                "Магазины мясной продукции": "https://smolensk.jsprav.ru/magazinyi-myasnoj-produktsii/"
+            },
+            {
+                "Магазины напольных покрытий": "https://smolensk.jsprav.ru/magazinyi-napolnyih-pokryitij/"
+            },
+            {
+                "Магазины настольных и интеллектуальных игр": "https://smolensk.jsprav.ru/magazinyi-nastolnyih-i-intellektualnyih-igr/"
+            },
+            {
+                "Магазины ноутбуков и планшетов": "https://smolensk.jsprav.ru/magazinyi-noutbukov-i-planshetov/"
+            },
+            {
+                "Магазины нумизматики и монет": "https://smolensk.jsprav.ru/magazinyi-numizmatiki-i-monet/"
+            },
+            {
+                "Магазины обоев": "https://smolensk.jsprav.ru/magazinyi-oboev/"
+            },
+            {
+                "Магазины обувной фурнитуры": "https://smolensk.jsprav.ru/magazinyi-obuvnoj-furnituryi/"
+            },
+            {
+                "Магазины одежды больших размеров": "https://smolensk.jsprav.ru/magazinyi-odezhdyi-bolshih-razmerov/"
+            },
+            {
+                "Магазины одежды и обуви": "https://smolensk.jsprav.ru/magazinyi-odezhdyi-i-obuvi/"
+            },
+            {
+                "Магазины оргтехники": "https://smolensk.jsprav.ru/magazinyi-orgtehniki/"
+            },
+            {
+                "Магазины открыток и конвертов": "https://smolensk.jsprav.ru/magazinyi-otkryitok-i-konvertov/"
+            },
+            {
+                "Магазины париков, шиньонов и накладных прядей": "https://smolensk.jsprav.ru/magazinyi-parikov-shinonov-i-nakladnyih-pryadej/"
+            },
+            {
+                "Магазины пива": "https://smolensk.jsprav.ru/magazinyi-piva/"
+            },
+            {
+                "Магазины подарков и сувениров": "https://smolensk.jsprav.ru/magazinyi-podarkov-i-suvenirov/"
+            },
+            {
+                "Магазины по продаже электросчетчиков": "https://smolensk.jsprav.ru/magazinyi-po-prodazhe-elektroschetchikov/"
+            },
+            {
+                "Магазины портфелей, сумок и чемоданов": "https://smolensk.jsprav.ru/magazinyi-portfelej-sumok-i-chemodanov/"
+            },
+            {
+                "Магазины постельных принадлежностей": "https://smolensk.jsprav.ru/magazinyi-postelnyih-prinadlezhnostej/"
+            },
+            {
+                "Магазины посуды": "https://smolensk.jsprav.ru/magazinyi-posudyi/"
+            },
+            {
+                "Магазины продуктов": "https://smolensk.jsprav.ru/magazinyi-produktov/"
+            },
+            {
+                "Магазины продукции Apple": "https://smolensk.jsprav.ru/magazinyi-produktsii-apple/"
+            },
+            {
+                "Магазины пчеловодства": "https://smolensk.jsprav.ru/magazinyi-pchelovodstva/"
+            },
+            {
+                "Магазины радиодеталей и радиоаппаратуры": "https://smolensk.jsprav.ru/magazin-radiodetalej/"
+            },
+            {
+                "Магазины рукавов и шлангов": "https://smolensk.jsprav.ru/magazinyi-rukavov-i-shlangov/"
+            },
+            {
+                "Магазины рыбной продукции и морепродуктов": "https://smolensk.jsprav.ru/magazinyi-ryibnoj-produktsii-i-moreproduktov/"
+            },
+            {
+                "Магазины рюкзаков и школьных ранцев": "https://smolensk.jsprav.ru/magazinyi-ryukzakov-i-shkolnyih-rantsev/"
+            },
+            {
+                "Магазины садового инвентаря и техники": "https://smolensk.jsprav.ru/magazinyi-sadovogo-inventarya-i-tehniki/"
+            },
+            {
+                "Магазины сантехники": "https://smolensk.jsprav.ru/magazinyi-santehniki/"
+            },
+            {
+                "Магазины сантехнического оборудования и аксессуаров": "https://smolensk.jsprav.ru/magazinyi-santehnicheskogo-oborudovaniya-i-aksessuarov/"
+            },
+            {
+                "Магазины светильников и люстр": "https://smolensk.jsprav.ru/magazinyi-svetilnikov-i-lyustr/"
+            },
+            {
+                "Магазины светотехники": "https://smolensk.jsprav.ru/magazinyi-svetotehniki/"
+            },
+            {
+                "Магазины сейфов": "https://smolensk.jsprav.ru/magazinyi-sejfov/"
+            },
+            {
+                "Магазины сетевого оборудования": "https://smolensk.jsprav.ru/magazinyi-setevogo-oborudovaniya/"
+            },
+            {
+                "Магазины спецодежды": "https://smolensk.jsprav.ru/magazinyi-spetsodezhdyi/"
+            },
+            {
+                "Магазины спортивного инвентаря и оборудования": "https://smolensk.jsprav.ru/magazinyi-sportivnogo-inventarya-i-oborudovaniya/"
+            },
+            {
+                "Магазины спортивного питания": "https://smolensk.jsprav.ru/magazinyi-sportivnogo-pitaniya/"
+            },
+            {
+                "Магазины спортивной одежды и обуви": "https://smolensk.jsprav.ru/magazinyi-sportivnoj-odezhdyi-i-obuvi/"
+            },
+            {
+                "Магазины средств гигиены": "https://smolensk.jsprav.ru/magazinyi-sredstv-gigienyi/"
+            },
+            {
+                "Магазины стабилизаторов напряжения и сетевых фильтров": "https://smolensk.jsprav.ru/magazinyi-stabilizatorov-napryazheniya-i-setevyih-filtrov/"
+            },
+            {
+                "Магазины стеклянной посуды и хрусталя": "https://smolensk.jsprav.ru/magazinyi-steklyannoj-posudyi-i-hrustalya/"
+            },
+            {
+                "Магазины сувениров и сувенирной продукции": "https://smolensk.jsprav.ru/magazinyi-suvenirov/"
+            },
+            {
+                "Магазины табака и курительных принадлежностей": "https://smolensk.jsprav.ru/magazinyi-tabaka-i-kuritelnyih-prinadlezhnostej/"
+            },
+            {
+                "Магазины табачной продукции": "https://smolensk.jsprav.ru/magazinyi-tabachnoj-produktsii/"
+            },
+            {
+                "Магазины тары и упаковочных материалов": "https://smolensk.jsprav.ru/magazinyi-taryi-i-upakovochnyih-materialov/"
+            },
+            {
+                "Магазины телевизоров": "https://smolensk.jsprav.ru/magazinyi-televizorov/"
+            },
+            {
+                "Магазины технических масел": "https://smolensk.jsprav.ru/magazin-tehnicheskih-masel/"
+            },
+            {
+                "Магазины технических тканей": "https://smolensk.jsprav.ru/magazinyi-tehnicheskih-tkanej/"
+            },
+            {
+                "Магазины тканей": "https://smolensk.jsprav.ru/magazinyi-tkanej/"
+            },
+            {
+                "Магазины ткани": "https://smolensk.jsprav.ru/magazinyi-tkani/"
+            },
+            {
+                "Магазины товаров для бани и сауны": "https://smolensk.jsprav.ru/magazin-tovarov-dlya-bani-i-saunyi/"
+            },
+            {
+                "Магазины товаров для дома": "https://smolensk.jsprav.ru/magazinyi-tovarov-dlya-doma/"
+            },
+            {
+                "Магазины трикотажа и трикотажных изделий": "https://smolensk.jsprav.ru/magazinyi-trikotazha-i-trikotazhnyih-izdelij/"
+            },
+            {
+                "Магазины удлинителей и адаптеров": "https://smolensk.jsprav.ru/magazinyi-udlinitelej-i-adapterov/"
+            },
+            {
+                "Магазины уплотнителей для дверей и окон": "https://smolensk.jsprav.ru/magazinyi-uplotnitelej-dlya-dverej-i-okon/"
+            },
+            {
+                "Магазины учебно-методической литературы": "https://smolensk.jsprav.ru/magazin-uchebno-metodicheskoj-literaturyi/"
+            },
+            {
+                "Магазины фейерверков и пиротехники": "https://smolensk.jsprav.ru/magazinyi-fejerverkov-i-pirotehniki/"
+            },
+            {
+                "Магазины фурнитуры": "https://smolensk.jsprav.ru/magazinyi-furnituryi/"
+            },
+            {
+                "Магазины хозтоваров и бытовой химии": "https://smolensk.jsprav.ru/magazinyi-hoztovarov/"
+            },
+            {
+                "Магазины часов": "https://smolensk.jsprav.ru/magazin-chasov/"
+            },
+            {
+                "Магазины чая и кофе": "https://smolensk.jsprav.ru/magazinyi-chaya-i-kofe/"
+            },
+            {
+                "Магазины чулочно-носочных изделий": "https://smolensk.jsprav.ru/magazinyi-chulochno-nosochnyih-izdelij/"
+            },
+            {
+                "Магазины швейной фурнитуры": "https://smolensk.jsprav.ru/magazinyi-shvejnoj-furnituryi/"
+            },
+            {
+                "Магазины школьной одежды": "https://smolensk.jsprav.ru/magazinyi-shkolnoj-odezhdyi/"
+            },
+            {
+                "Магазины штор и карнизов": "https://smolensk.jsprav.ru/magazinyi-shtor-i-karnizov/"
+            },
+            {
+                "Магазины электро- и бензоинструментов": "https://smolensk.jsprav.ru/magazinyi-elektro-i-benzoinstrumentov/"
+            },
+            {
+                "Магазины электроизмерительных приборов": "https://smolensk.jsprav.ru/magazinyi-elektroizmeritelnyih-priborov/"
+            },
+            {
+                "Магазины электроинструментов": "https://smolensk.jsprav.ru/magazinyi-elektroinstrumentov/"
+            },
+            {
+                "Магазины электроники": "https://smolensk.jsprav.ru/magazinyi-elektroniki/"
+            },
+            {
+                "Магазины электронных приборов и компонентов": "https://smolensk.jsprav.ru/magazinyi-elektronnyih-priborov-i-komponentov/"
+            },
+            {
+                "Магазины электротоваров": "https://smolensk.jsprav.ru/magazinyi-elektrotovarov/"
+            },
+            {
+                "Магазины электротранспорта": "https://smolensk.jsprav.ru/magazinyi-elektrotransporta/"
+            },
+            {
+                "Магазины ювелирных изделий": "https://smolensk.jsprav.ru/magazinyi-yuvelirnyih-izdelij/"
+            },
+            {
+                "Магазины ювелирных камней": "https://smolensk.jsprav.ru/magazinyi-yuvelirnyih-kamnej/"
+            },
+            {
+                "Магазин электродов": "https://smolensk.jsprav.ru/magazin-elektrodov/"
+            },
+            {
+                "Мебель для офиса": "https://smolensk.jsprav.ru/mebel-dlya-ofisa/"
+            },
+            {
+                "Мебель на заказ": "https://smolensk.jsprav.ru/mebel-na-zakaz/"
+            },
+            {
+                "Мебельные магазины и салоны": "https://smolensk.jsprav.ru/mebelnyie-magazinyi/"
+            },
+            {
+                "Молочная кухня": "https://smolensk.jsprav.ru/molochnaya-kuhnya/"
+            },
+            {
+                "Молочные магазины": "https://smolensk.jsprav.ru/molochnyie-magazinyi/"
+            },
+            {
+                "Москитные сетки": "https://smolensk.jsprav.ru/moskitnyie-setki/"
+            },
+            {
+                "Музыкальные магазины": "https://smolensk.jsprav.ru/muzyikalnyie-magazinyi/"
+            },
+            {
+                "Обогреватели": "https://smolensk.jsprav.ru/obogrevateli/"
+            },
+            {
+                "Обувная косметика": "https://smolensk.jsprav.ru/obuvnaya-kosmetika/"
+            },
+            {
+                "Овощные базы": "https://smolensk.jsprav.ru/ovoschnyie-bazyi/"
+            },
+            {
+                "Овощные магазины": "https://smolensk.jsprav.ru/ovoschnyie-magazinyi/"
+            },
+            {
+                "Орехи, снеки, сухари, сухофрукты": "https://smolensk.jsprav.ru/orehi-sneki-suhari-suhofruktyi/"
+            },
+            {
+                "Ортопедические магазины и салоны": "https://smolensk.jsprav.ru/ortopedicheskie-magazinyi-i-salonyi/"
+            },
+            {
+                "Офисные перегородки": "https://smolensk.jsprav.ru/ofisnyie-peregorodki/"
+            },
+            {
+                "Охотничьи и рыболовные магазины": "https://smolensk.jsprav.ru/ohotnichi-i-ryibolovnyie-magazinyi/"
+            },
+            {
+                "Печать и продажа постеров": "https://smolensk.jsprav.ru/pechat-i-prodazha-posterov/"
+            },
+            {
+                "Пищевые добавки, ароматизаторы и специи": "https://smolensk.jsprav.ru/pischevyie-dobavki-aromatizatoryi-i-spetsii/"
+            },
+            {
+                "Полиграфические материалы": "https://smolensk.jsprav.ru/poligraficheskie-materialyi/"
+            },
+            {
+                "Потребительская кооперации и общества": "https://smolensk.jsprav.ru/potrebitelskaya-kooperatsii-i-obschestva/"
+            },
+            {
+                "Продажа gps-навигаторов": "https://smolensk.jsprav.ru/prodazha-gps-navigatorov/"
+            },
+            {
+                "Продажа биотуалетов и туалетных кабин": "https://smolensk.jsprav.ru/prodazha-biotualetov-i-tualetnyih-kabin/"
+            },
+            {
+                "Продажа вентиляторов": "https://smolensk.jsprav.ru/prodazha-ventilyatorov/"
+            },
+            {
+                "Продажа веревок, канатов и тросов": "https://smolensk.jsprav.ru/prodazha-verevok-kanatov-i-trosov/"
+            },
+            {
+                "Продажа галантерейных изделий и товаров": "https://smolensk.jsprav.ru/prodazha-galanterejnyih-izdelij-i-tovarov/"
+            },
+            {
+                "Продажа и пошив карнавальных, театральных и танцевальных костюмов": "https://smolensk.jsprav.ru/prodazha-i-poshiv-karnavalnyih-teatralnyih-i-tantsevalnyih-kostyumyi/"
+            },
+            {
+                "Продажа и прокат катеров и лодок": "https://smolensk.jsprav.ru/prodazha-i-prokat-katerov-i-lodok/"
+            },
+            {
+                "Продажа и установка воздушного отопления": "https://smolensk.jsprav.ru/prodazha-i-ustanovka-vozdushnogo-otopleniya/"
+            },
+            {
+                "Продажа и установка спутниковых и цифровых антенн": "https://smolensk.jsprav.ru/prodazha-i-ustanovka-sputnikovyih-i-tsifrovyih-antenn/"
+            },
+            {
+                "Продажа кабелей и проводов": "https://smolensk.jsprav.ru/prodazha-kabelej-i-provodov/"
+            },
+            {
+                "Продажа компьютеров и комплектующих": "https://smolensk.jsprav.ru/prodazha-kompyuterov-i-komplektuyuschih/"
+            },
+            {
+                "Продажа кондитерских изделий": "https://smolensk.jsprav.ru/prodazha-konditerskih-izdelij/"
+            },
+            {
+                "Продажа консервов": "https://smolensk.jsprav.ru/prodazha-konservov/"
+            },
+            {
+                "Продажа лодочных моторов": "https://smolensk.jsprav.ru/prodazha-lodochnyih-motorov/"
+            },
+            {
+                "Продажа масла растительного и сливочного": "https://smolensk.jsprav.ru/prodazha-masla-rastitelnogo-i-slivochnogo/"
+            },
+            {
+                "Продажа меда и продуктов пчеловодства": "https://smolensk.jsprav.ru/prodazha-meda-i-produktov-pchelovodstva/"
+            },
+            {
+                "Продажа молочной продукции": "https://smolensk.jsprav.ru/prodazha-molochnaya-produktsiya/"
+            },
+            {
+                "Продажа моющих и чистящих средств": "https://smolensk.jsprav.ru/prodazha-moyuschih-i-chistyaschih-sredstv/"
+            },
+            {
+                "Продажа муки и крупы": "https://smolensk.jsprav.ru/prodazha-muki-i-krupyi/"
+            },
+            {
+                "Продажа нефтепродуктов": "https://smolensk.jsprav.ru/prodazha-nefteproduktov/"
+            },
+            {
+                "Продажа пластмассовых и пластиковых изделий": "https://smolensk.jsprav.ru/proizvodstvo-i-prodazha-plastmassovyih-i-plastikovyih-izdelij/"
+            },
+            {
+                "Продажа режущего инструмента": "https://smolensk.jsprav.ru/prodazha-rezhuschego-instrumenta/"
+            },
+            {
+                "Продажа самоклеящихся лент": "https://smolensk.jsprav.ru/prodazha-samokleyaschihsya-lent/"
+            },
+            {
+                "Продажа соляриев": "https://smolensk.jsprav.ru/prodazha-solyariev/"
+            },
+            {
+                "Продажа телефонных аппаратов и оборудование": "https://smolensk.jsprav.ru/prodazha-telefonnyih-apparatov-i-oborudovanie/"
+            },
+            {
+                "Продажа тентов, шатров и навесов": "https://smolensk.jsprav.ru/prodazha-tentov-shatrov-i-navesov/"
+            },
+            {
+                "Продажа электронагревателей": "https://smolensk.jsprav.ru/prodazha-elektronagrevatelej/"
+            },
+            {
+                "Продажа элементов питания и батареек": "https://smolensk.jsprav.ru/prodazha-elementov-pitaniya-i-batareek/"
+            },
+            {
+                "Продаж спортивных покрытий": "https://smolensk.jsprav.ru/prodazh-sportivnyih-pokryitij/"
+            },
+            {
+                "Продуктовые рынки": "https://smolensk.jsprav.ru/produktovyie-ryinki/"
+            },
+            {
+                "Продукты глубокой заморозки": "https://smolensk.jsprav.ru/produktyi-glubokoj-zamorozki/"
+            },
+            {
+                "Производство и продажа одежды": "https://smolensk.jsprav.ru/proizvodstvo-i-prodazha-odezhdyi/"
+            },
+            {
+                "Радиомагазины": "https://smolensk.jsprav.ru/radiomagazinyi/"
+            },
+            {
+                "Расходные материалы для оргтехники": "https://smolensk.jsprav.ru/rashodnyie-materialyi-dlya-orgtehniki/"
+            },
+            {
+                "Рыбные магазины и рынки": "https://smolensk.jsprav.ru/ryibnyie-magazinyi-i-ryinki/"
+            },
+            {
+                "Рынки": "https://smolensk.jsprav.ru/ryinki/"
+            },
+            {
+                "Салоны и магазины вечерних платьев": "https://smolensk.jsprav.ru/salonyi-i-magazinyi-vechernih-platev/"
+            },
+            {
+                "Свадебные салоны": "https://smolensk.jsprav.ru/svadebnyie-salonyi/"
+            },
+            {
+                "Секонд хэнды": "https://smolensk.jsprav.ru/sekond-hendyi/"
+            },
+            {
+                "Секс-шопы": "https://smolensk.jsprav.ru/seks-shopyi/"
+            },
+            {
+                "Спортивные магазины": "https://smolensk.jsprav.ru/sportivnyie-magazinyi/"
+            },
+            {
+                "Супермаркеты": "https://smolensk.jsprav.ru/supermarketyi/"
+            },
+            {
+                "Товары и одежда для детей": "https://smolensk.jsprav.ru/tovaryi-i-odezhda-dlya-detej/"
+            },
+            {
+                "Товары и украшения для праздника": "https://smolensk.jsprav.ru/tovaryi-i-ukrasheniya-dlya-prazdnika/"
+            },
+            {
+                "Товары народного потребления": "https://smolensk.jsprav.ru/tovaryi-narodnogo-potrebleniya/"
+            },
+            {
+                "Товары по каталогам": "https://smolensk.jsprav.ru/tovaryi-po-katalogam/"
+            },
+            {
+                "Торговые центры": "https://smolensk.jsprav.ru/torgovyie-tsentryi/"
+            },
+            {
+                "Уборочная техника и инвентарь": "https://smolensk.jsprav.ru/uborochnaya-tehnika-i-inventar/"
+            },
+            {
+                "Универмаги": "https://smolensk.jsprav.ru/univermagi/"
+            },
+            {
+                "Универсамы": "https://smolensk.jsprav.ru/universamyi/"
+            },
+            {
+                "Фотомагазины": "https://smolensk.jsprav.ru/fotomagazinyi/"
+            },
+            {
+                "Чайные магазины": "https://smolensk.jsprav.ru/chajnyie-magazinyi/"
+            },
+            {
+                "Ювелирные магазины": "https://smolensk.jsprav.ru/yuvelirnyie-magazinyi/"
+            },
+            {
+                "Яйцо и мясо птицы": "https://smolensk.jsprav.ru/yajtso-i-myaso-ptitsyi/"
+            },
+            {
+                "Ярмарки": "https://smolensk.jsprav.ru/yarmarki/"
+            }
+        ]
+    },
+    "Спорт_и_фитнес": {
+        "Спорт и фитнес в Смоленске": [
+            {
+                "Бани и сауны": "https://smolensk.jsprav.ru/bani-i-saunyi/"
+            },
+            {
+                "Бассейны": "https://smolensk.jsprav.ru/bassejnyi/"
+            },
+            {
+                "Дворцы спорта": "https://smolensk.jsprav.ru/dvortsyi-sporta/"
+            },
+            {
+                "Музыкальные и танцевальные коллективы": "https://smolensk.jsprav.ru/muzyikalnyie-i-tantsevalnyie-kollektivyi/"
+            },
+            {
+                "Оздоровительные центры": "https://smolensk.jsprav.ru/ozdorovitelnyie-tsentryi/"
+            },
+            {
+                "Прокат велосипедов": "https://smolensk.jsprav.ru/prokat-velosipedov/"
+            },
+            {
+                "Спортивные комплексы": "https://smolensk.jsprav.ru/sportivnyie-kompleksyi/"
+            },
+            {
+                "Спортивные площадки": "https://smolensk.jsprav.ru/sportivnyie-ploschadki/"
+            },
+            {
+                "Спорткомплексы": "https://smolensk.jsprav.ru/sportkompleksyi/"
+            },
+            {
+                "Стадионы": "https://smolensk.jsprav.ru/stadionyi/"
+            },
+            {
+                "Тренажёрные залы": "https://smolensk.jsprav.ru/trenazhyornyie-zalyi/"
+            },
+            {
+                "Фитнес-клубы": "https://smolensk.jsprav.ru/fitnes-klubyi/"
+            },
+            {
+                "Фитнес-центры": "https://smolensk.jsprav.ru/fitnes-tsentryi/"
+            },
+            {
+                "Центры йоги": "https://smolensk.jsprav.ru/tsentryi-jogi/"
+            }
+        ]
+    },
+    "Образование_и_наука": {
+        "Образование и наука в Смоленске": [
+            {
+                "Админстрации и управления образованием": "https://smolensk.jsprav.ru/adminstratsii-i-upravleniya-obrazovaniem/"
+            },
+            {
+                "Академии": "https://smolensk.jsprav.ru/akademii/"
+            },
+            {
+                "Библиотеки": "https://smolensk.jsprav.ru/biblioteki/"
+            },
+            {
+                "Бизнес-школы": "https://smolensk.jsprav.ru/biznes-shkolyi/"
+            },
+            {
+                "Бухгалтерские курсы": "https://smolensk.jsprav.ru/buhgalterskie-kursyi/"
+            },
+            {
+                "Военное образование": "https://smolensk.jsprav.ru/voennoe-obrazovanie/"
+            },
+            {
+                "Вузы": "https://smolensk.jsprav.ru/vuzyi/"
+            },
+            {
+                "Геология и геофизика": "https://smolensk.jsprav.ru/geologiya-i-geofizika/"
+            },
+            {
+                "Гимназии": "https://smolensk.jsprav.ru/gimnazii/"
+            },
+            {
+                "Детские и юношеские организации": "https://smolensk.jsprav.ru/detskie-i-yunosheskie-organizatsii/"
+            },
+            {
+                "Детские развивающие центры": "https://smolensk.jsprav.ru/detskie-razvivayuschie-tsentryi/"
+            },
+            {
+                "Детские сады": "https://smolensk.jsprav.ru/detskie-sadyi/"
+            },
+            {
+                "Дополнительное образование": "https://smolensk.jsprav.ru/dopolnitelnoe-obrazovanie/"
+            },
+            {
+                "Духовные учебные заведения": "https://smolensk.jsprav.ru/duhovnyie-uchebnyie-zavedeniya/"
+            },
+            {
+                "Информатика и информационные технологии": "https://smolensk.jsprav.ru/informatika-i-informatsionnyie-tehnologii/"
+            },
+            {
+                "Колледжи": "https://smolensk.jsprav.ru/kolledzhi/"
+            },
+            {
+                "Курсы иностранных языков": "https://smolensk.jsprav.ru/kursyi-inostrannyih-yazyikov/"
+            },
+            {
+                "Лицеи": "https://smolensk.jsprav.ru/litsei/"
+            },
+            {
+                "Логопеды": "https://smolensk.jsprav.ru/logopedyi/"
+            },
+            {
+                "Магазины наглядных учебных пособий": "https://smolensk.jsprav.ru/magazinyi-naglyadnyih-uchebnyih-posobij/"
+            },
+            {
+                "Медицинское образование": "https://smolensk.jsprav.ru/meditsinskoe-obrazovanie/"
+            },
+            {
+                "Музыкальное образование": "https://smolensk.jsprav.ru/muzyikalnoe-obrazovanie/"
+            },
+            {
+                "Научно-исследовательские институты": "https://smolensk.jsprav.ru/nauchno-issledovatelskie-institutyi/"
+            },
+            {
+                "Научно-производственные организации": "https://smolensk.jsprav.ru/nauchno-proizvodstvennyie-organizatsii/"
+            },
+            {
+                "Образовательные центры": "https://smolensk.jsprav.ru/obrazovatelnyie-tsentryi/"
+            },
+            {
+                "Обучение за рубежом": "https://smolensk.jsprav.ru/obuchenie-za-rubezhom/"
+            },
+            {
+                "Общеобразовательные школы": "https://smolensk.jsprav.ru/obscheobrazovatelnyie-shkolyi/"
+            },
+            {
+                "Планетарии": "https://smolensk.jsprav.ru/planetarii/"
+            },
+            {
+                "Профессиональные курсы": "https://smolensk.jsprav.ru/professionalnyie-kursyi/"
+            },
+            {
+                "ПТУ": "https://smolensk.jsprav.ru/ptu/"
+            },
+            {
+                "Репетиторы, написание дипломов, курсовых и рефератов": "https://smolensk.jsprav.ru/repetitoryi-napisanie-diplomov-kursovyih-i-referatov/"
+            },
+            {
+                "Спортивные клубы и секции": "https://smolensk.jsprav.ru/sportivnyij-klubyi-i-sektsii/"
+            },
+            {
+                "Спортивные школы": "https://smolensk.jsprav.ru/sportivnyie-shkolyi/"
+            },
+            {
+                "Техникумы": "https://smolensk.jsprav.ru/tehnikumyi/"
+            },
+            {
+                "Учебные и образовательные центры": "https://smolensk.jsprav.ru/uchebnyie-tsentryi/"
+            },
+            {
+                "Училища": "https://smolensk.jsprav.ru/uchilischa/"
+            },
+            {
+                "Фотошколы": "https://smolensk.jsprav.ru/fotoshkolyi/"
+            },
+            {
+                "Хореографическое училище": "https://smolensk.jsprav.ru/horeograficheskoe-uchilische/"
+            },
+            {
+                "Художественные школы и студии рисования": "https://smolensk.jsprav.ru/hudozhestvennyie-shkolyi-i-studii-risovaniya/"
+            },
+            {
+                "Центры повышения квалификации": "https://smolensk.jsprav.ru/tsentryi-povyisheniya-kvalifikatsii/"
+            },
+            {
+                "Центры развития детей": "https://smolensk.jsprav.ru/tsentryi-razvitiya-detej/"
+            },
+            {
+                "Частные школы": "https://smolensk.jsprav.ru/chastnyie-shkolyi/"
+            },
+            {
+                "Школы": "https://smolensk.jsprav.ru/shkolyi/"
+            },
+            {
+                "Школы иностранных языков": "https://smolensk.jsprav.ru/shkolyi-inostrannyih-yazyikov/"
+            },
+            {
+                "Школы-интернаты": "https://smolensk.jsprav.ru/shkolyi-internatyi/"
+            },
+            {
+                "Школы охраны и охранников": "https://smolensk.jsprav.ru/shkolyi-ohranyi-i-ohrannikov/"
+            },
+            {
+                "Школы управления и менеджмента": "https://smolensk.jsprav.ru/shkolyi-upravleniya-i-menedzhmenta/"
+            },
+            {
+                "Юридическое образование": "https://smolensk.jsprav.ru/yuridicheskoe-obrazovanie/"
+            }
+        ]
+    },
+    "Животные_и_растения": {
+        "Животные и растения в Смоленске": [
+            {
+                "Ветеринарные аптеки": "https://smolensk.jsprav.ru/veterinarnyie-apteki/"
+            },
+            {
+                "Ветеринарные клиники": "https://smolensk.jsprav.ru/veterinarnyie-kliniki/"
+            },
+            {
+                "Ветеринарные лаборатории и станции": "https://smolensk.jsprav.ru/veterinarnyie-laboratorii-i-stantsii/"
+            },
+            {
+                "Ветпомощь на дому": "https://smolensk.jsprav.ru/vetpomosch-na-domu/"
+            },
+            {
+                "Животноводческие хозяйства и фермы": "https://smolensk.jsprav.ru/zhzhivotnovodcheskie-hozyajstva-i-fermyi/"
+            },
+            {
+                "Заповедники": "https://smolensk.jsprav.ru/zapovedniki/"
+            },
+            {
+                "Зверофермы": "https://smolensk.jsprav.ru/zverofermyi/"
+            },
+            {
+                "Зоомагазины": "https://smolensk.jsprav.ru/zoomagazinyi/"
+            },
+            {
+                "Зоосалоны и зоопарикмахерские": "https://smolensk.jsprav.ru/zoosalonyi-zooparikmaherskie/"
+            },
+            {
+                "Кинологические клубы и центры": "https://smolensk.jsprav.ru/kinologicheskie-klubyi-i-tsentryi/"
+            },
+            {
+                "Клубы любителей животных": "https://smolensk.jsprav.ru/klubyi-lyubitelej-zhivotnyih/"
+            },
+            {
+                "Корма для животных": "https://smolensk.jsprav.ru/korma-dlya-zhivotnyih/"
+            },
+            {
+                "Магазины для садоводов": "https://smolensk.jsprav.ru/magazin-dlya-sadovodov/"
+            },
+            {
+                "Магазины семян": "https://smolensk.jsprav.ru/magazinyi-semyan/"
+            },
+            {
+                "Питомники растений": "https://smolensk.jsprav.ru/pitomniki-rastenij/"
+            },
+            {
+                "Приюты для животных": "https://smolensk.jsprav.ru/priyutyi-dlya-zhivotnyih/"
+            },
+            {
+                "Продажа средств защиты растений": "https://smolensk.jsprav.ru/prodazha-sredstv-zaschityi-rastenij/"
+            },
+            {
+                "Ритуальные услуги для животных": "https://smolensk.jsprav.ru/ritualnyie-uslugi-dlya-zhivotnyih/"
+            },
+            {
+                "Садоводство и огородничество": "https://smolensk.jsprav.ru/sadovodstvo-i-ogorodnichestvo/"
+            },
+            {
+                "Садовые центры и магазины": "https://smolensk.jsprav.ru/sadovyie-tsentryi-i-magazinyi/"
+            },
+            {
+                "Селекция и семеноводство": "https://smolensk.jsprav.ru/selektsiya-i-semenovodstvo/"
+            },
+            {
+                "Товары для животных": "https://smolensk.jsprav.ru/tovaryi-dlya-zhivotnyih/"
+            },
+            {
+                "Удобрения": "https://smolensk.jsprav.ru/udobreniya/"
+            },
+            {
+                "Цветочные магазины и салоны": "https://smolensk.jsprav.ru/tsvetochnyie-magazinyi-i-salonyi/"
+            }
+        ]
+    },
+    "Туризм": {
+        "Туризм в Смоленске": [
+            {
+                "Авиа- и ж/д билеты": "https://smolensk.jsprav.ru/avia-i-zhd-biletyi/"
+            },
+            {
+                "Бронирование гостиниц, отелей, номеров": "https://smolensk.jsprav.ru/bronirovanie-gostinits-otelej-nomerov/"
+            },
+            {
+                "Гостиницы и отели": "https://smolensk.jsprav.ru/gostinitsyi/"
+            },
+            {
+                "Дома отдыха": "https://smolensk.jsprav.ru/doma-otdyiha/"
+            },
+            {
+                "Миграционные услуги": "https://smolensk.jsprav.ru/migratsionnyie-uslugi/"
+            },
+            {
+                "Мотели": "https://smolensk.jsprav.ru/moteli/"
+            },
+            {
+                "Оформление виз": "https://smolensk.jsprav.ru/oformlenie-viz/"
+            },
+            {
+                "Оформление загранпаспортов": "https://smolensk.jsprav.ru/oformlenie-zagranpasportov/"
+            },
+            {
+                "Посольства и консульства": "https://smolensk.jsprav.ru/posolstva-konsulstva/"
+            },
+            {
+                "Турбазы": "https://smolensk.jsprav.ru/turbazyi/"
+            },
+            {
+                "Туристические агентства": "https://smolensk.jsprav.ru/turisticheskie-agenstva/"
+            },
+            {
+                "Туристические инфоцентры": "https://smolensk.jsprav.ru/turisticheskie-infotsentryi/"
+            },
+            {
+                "Туристические магазины": "https://smolensk.jsprav.ru/turisticheskie-magazinyi/"
+            },
+            {
+                "Туроператоры": "https://smolensk.jsprav.ru/turoperatoryi/"
+            },
+            {
+                "Турфирмы": "https://smolensk.jsprav.ru/turfirmyi/"
+            },
+            {
+                "Хостелы": "https://smolensk.jsprav.ru/hostelyi/"
+            },
+            {
+                "Экскурсии": "https://smolensk.jsprav.ru/ekskursii/"
+            }
+        ]
+    },
+    "Транспорт_и_перевозки": {
+        "Транспорт и перевозки в Смоленске": [
+            {
+                "Авиакомпании": "https://smolensk.jsprav.ru/aviakompanii/"
+            },
+            {
+                "Автобусные парки": "https://smolensk.jsprav.ru/avtobusnyie-parki/"
+            },
+            {
+                "Автовокзалы": "https://smolensk.jsprav.ru/avtovokzalyi/"
+            },
+            {
+                "Автостанции": "https://smolensk.jsprav.ru/avtostantsii/"
+            },
+            {
+                "Водный транспорт": "https://smolensk.jsprav.ru/vodnyij-transport/"
+            },
+            {
+                "Грузовые авиаперевозки": "https://smolensk.jsprav.ru/gruzovyie-aviaperevozki/"
+            },
+            {
+                "Грузовые такси": "https://smolensk.jsprav.ru/gruzovyie-taksi/"
+            },
+            {
+                "Железнодорожные вокзалы": "https://smolensk.jsprav.ru/zheleznodorozhnyie-vokzalyi/"
+            },
+            {
+                "Железнодорожные грузоперевозки": "https://smolensk.jsprav.ru/zheleznodorozhnyie-gruzoperevozki/"
+            },
+            {
+                "Квартирный переезд": "https://smolensk.jsprav.ru/kvartirnyij-pereezd/"
+            },
+            {
+                "Контейнерные перевозки": "https://smolensk.jsprav.ru/kontejnernyie-perevozki/"
+            },
+            {
+                "Логистика": "https://smolensk.jsprav.ru/logistika/"
+            },
+            {
+                "Логистические компании и услуги": "https://smolensk.jsprav.ru/logisticheskie-kompanii-i-uslugi/"
+            },
+            {
+                "Междугородные перевозки": "https://smolensk.jsprav.ru/mezhdugorodnyie-perevozki/"
+            },
+            {
+                "Пассажирские железнодорожные перевозки": "https://smolensk.jsprav.ru/passazhirskie-zheleznodorozhnyie-perevozki/"
+            },
+            {
+                "Перевозка негабаритных грузов": "https://smolensk.jsprav.ru/perevozka-negabaritnyih-gruzov/"
+            },
+            {
+                "Перевозки нефтепродуктов": "https://smolensk.jsprav.ru/perevozki-nefteproduktov/"
+            },
+            {
+                "Перевозки рефрижераторами": "https://smolensk.jsprav.ru/perevozki-refrizheratorami/"
+            },
+            {
+                "Продажа автобусных билетов": "https://smolensk.jsprav.ru/prodazha-avtobusnyih-biletov/"
+            },
+            {
+                "Пункт выдачи заказов": "https://smolensk.jsprav.ru/punkt-vyidachi-zakazov/"
+            },
+            {
+                "Речные и морские вокзалы": "https://smolensk.jsprav.ru/rechnyie-i-morskie-vokzalyi/"
+            },
+            {
+                "Речные круизы и теплоходы": "https://smolensk.jsprav.ru/rechnyie-kruizyi-i-teplohodyi/"
+            },
+            {
+                "Строительство и ремонт дорог": "https://smolensk.jsprav.ru/stroitelstvo-i-remont-dorog/"
+            },
+            {
+                "Трансагентства": "https://smolensk.jsprav.ru/transagentstva/"
+            },
+            {
+                "Транспортные компании": "https://smolensk.jsprav.ru/transportnyie-kompanii/"
+            },
+            {
+                "Экспедирование": "https://smolensk.jsprav.ru/ekspedirovanie/"
+            }
+        ]
+    },
+    "Недвижимость": {
+        "Недвижимость в Смоленске": [
+            {
+                "Агентства недвижимости": "https://smolensk.jsprav.ru/agentstva-nedvizhimosti/"
+            },
+            {
+                "Аренда квартир и офисов": "https://smolensk.jsprav.ru/arenda-kvartir-i-ofisov/"
+            },
+            {
+                "Аренда помещений": "https://smolensk.jsprav.ru/arenda-pomeschenij/"
+            },
+            {
+                "Аренда фотостудий": "https://smolensk.jsprav.ru/arenda-fotostudij/"
+            },
+            {
+                "Бизнес-центры": "https://smolensk.jsprav.ru/biznes-tsentryi/"
+            },
+            {
+                "Квартиры и жилье посуточно": "https://smolensk.jsprav.ru/kvartiryi-posutochno/"
+            },
+            {
+                "Общежития": "https://smolensk.jsprav.ru/obschezhitiya/"
+            },
+            {
+                "Продажа земельных участков и ижс": "https://smolensk.jsprav.ru/prodazha-zemelnyih-uchastkov-i-izhs/"
+            },
+            {
+                "Продажа и аренда коммерческой недвижимости": "https://smolensk.jsprav.ru/prodazha-i-arenda-kommercheskoj-nedvizhimosti/"
+            },
+            {
+                "Продажа квартир в новостройках": "https://smolensk.jsprav.ru/prodazha-kvartir-v-novostrojkah/"
+            },
+            {
+                "Продажа недвижимоси за рубежом": "https://smolensk.jsprav.ru/prodazha-nedvizhimosi-za-rubezhom/"
+            },
+            {
+                "Продажа нежилых помещений": "https://smolensk.jsprav.ru/prodazha-nezhilyih-pomeschenij/"
+            },
+            {
+                "Управление недвижимостью": "https://smolensk.jsprav.ru/upravlenie-nedvizhimostyu/"
+            },
+            {
+                "Элитная недвижимость": "https://smolensk.jsprav.ru/elitnaya-nedvizhimost/"
+            }
+        ]
+    },
+    "Строительство_и_ремонт": {
+        "Строительство и ремонт в Смоленске": [
+            {
+                "Автоматические двери и ворота": "https://smolensk.jsprav.ru/avtomaticheskie-dveri-i-vorota/"
+            },
+            {
+                "Аренда строительной и спецтехники": "https://smolensk.jsprav.ru/arenda-stroitelnoj-i-spetstehniki/"
+            },
+            {
+                "Архитектурное бюро": "https://smolensk.jsprav.ru/arhitekturnoe-byuro/"
+            },
+            {
+                "Архитектурное проектирование": "https://smolensk.jsprav.ru/arhitekturnoe-proektirovanie/"
+            },
+            {
+                "Водонагреватели": "https://smolensk.jsprav.ru/vodonagrevateli/"
+            },
+            {
+                "Газовые котлы": "https://smolensk.jsprav.ru/gazovyie-kotlyi/"
+            },
+            {
+                "Гражданское строительство": "https://smolensk.jsprav.ru/grazhdanskoe-stroitelstvo/"
+            },
+            {
+                "Двери и дверные блоки": "https://smolensk.jsprav.ru/dveri-dvernyie-bloki/"
+            },
+            {
+                "Земляные работы": "https://smolensk.jsprav.ru/zemlyanyie-rabotyi/"
+            },
+            {
+                "Изготовление витражей": "https://smolensk.jsprav.ru/izgotovlenie-vitrazhej/"
+            },
+            {
+                "Изготовление, производство и монтаж металлоконструкции": "https://smolensk.jsprav.ru/izgotovlenie-proizvodstvo-i-montazh-metallokonstruktsii/"
+            },
+            {
+                "Изоляционные материалы и работы": "https://smolensk.jsprav.ru/izolyatsionnyie-materialyi-i-rabotyi/"
+            },
+            {
+                "Кадастровые услуги": "https://smolensk.jsprav.ru/kadastrovyie-uslugi/"
+            },
+            {
+                "Комплексное обеспечение строительства": "https://smolensk.jsprav.ru/kompleksnoe-obespechenie-stroitelstva/"
+            },
+            {
+                "Комплектующие для дверей": "https://smolensk.jsprav.ru/komplektuyuschie-dlya-dverej/"
+            },
+            {
+                "Комплектующие для окон": "https://smolensk.jsprav.ru/komplektuyuschie-dlya-okon/"
+            },
+            {
+                "Кровельные работы": "https://smolensk.jsprav.ru/krovelnyie-rabotyi/"
+            },
+            {
+                "Лазерная резка и гравировка": "https://smolensk.jsprav.ru/lazernaya-rezka/"
+            },
+            {
+                "Лаки и краски": "https://smolensk.jsprav.ru/laki-i-kraski/"
+            },
+            {
+                "Лестницы и лестничные ограждения": "https://smolensk.jsprav.ru/lestnitsyi-i-lestnichnyie-ograzhdeniya/"
+            },
+            {
+                "Магазины ламината": "https://smolensk.jsprav.ru/magazinyi-laminata/"
+            },
+            {
+                "Магазины строительных инструментов": "https://smolensk.jsprav.ru/magazinyi-stroitelnyih-instrumentov/"
+            },
+            {
+                "Межкомнатные двери": "https://smolensk.jsprav.ru/mezhkomnatnyie-dveri/"
+            },
+            {
+                "Металлические двери": "https://smolensk.jsprav.ru/metallicheskie-dveri/"
+            },
+            {
+                "Металлические заборы и ограждения": "https://smolensk.jsprav.ru/metallicheskie-zaboryi-i-ograzhdeniya/"
+            },
+            {
+                "Металлоизделия": "https://smolensk.jsprav.ru/metalloizdeliya/"
+            },
+            {
+                "Монтаж и ремонт кровли и продажа кровельных материалов": "https://smolensk.jsprav.ru/montazh-i-remont-krovli-i-prodazha-krovelnyih-materialov/"
+            },
+            {
+                "Монтажные работы": "https://smolensk.jsprav.ru/montazhnyie-rabotyi/"
+            },
+            {
+                "Натяжные и подвесные потолки": "https://smolensk.jsprav.ru/natyazhnyie-i-podvesnyie-potolki/"
+            },
+            {
+                "Облицовочные материалы": "https://smolensk.jsprav.ru/oblitsovochnyie-materialyi/"
+            },
+            {
+                "Окна": "https://smolensk.jsprav.ru/okna/"
+            },
+            {
+                "Осветительное оборудование и приборы": "https://smolensk.jsprav.ru/osvetitelnoe-oborudovanie-i-priboryi/"
+            },
+            {
+                "Остекление и отделка балконов и лоджий": "https://smolensk.jsprav.ru/osteklenie-i-otdelka-balkonov-i-lodzhij/"
+            },
+            {
+                "Отопительное оборудование и системы": "https://smolensk.jsprav.ru/otopitelnoe-oborudovanie-i-sistemyi/"
+            },
+            {
+                "Продажа, аренда и монтаж опалубки": "https://smolensk.jsprav.ru/prodazha-arenda-i-montazh-opalubki/"
+            },
+            {
+                "Продажа и аренда строительных лесов": "https://smolensk.jsprav.ru/prodazha-i-arenda-stroitelnyih-lesov/"
+            },
+            {
+                "Продажа межкомнатных и входных дверей": "https://smolensk.jsprav.ru/prodazha-mezhkomnatnyih-i-vhodnyih-dverej/"
+            },
+            {
+                "Продажа песка": "https://smolensk.jsprav.ru/prodazha-peska/"
+            },
+            {
+                "Продажа пиломатериалов": "https://smolensk.jsprav.ru/prodazha-pilomaterialov/"
+            },
+            {
+                "Продажа пленки архитектурной, декоративной и защитной": "https://smolensk.jsprav.ru/prodazha-plenki-arhitekturnoj-dekorativnoj-i-zaschitnoj/"
+            },
+            {
+                "Продажа фанеры и ДСП": "https://smolensk.jsprav.ru/prodazha-faneryi-i-dsp/"
+            },
+            {
+                "Производство и продажа кирпича": "https://smolensk.jsprav.ru/proizvodstvo-i-prodazha-kirpicha/"
+            },
+            {
+                "Производство и продажа сухих строительных смесей": "https://smolensk.jsprav.ru/proizvodstvo-i-prodazha-suhih-stroitelnyih-smesej/"
+            },
+            {
+                "Производство и продажа цемента": "https://smolensk.jsprav.ru/proizvodstvo-i-prodazha-tsementa/"
+            },
+            {
+                "Производство и строительство модульных зданий": "https://smolensk.jsprav.ru/proizvodstvo-i-stroitelstvo-modulnyih-zdanij/"
+            },
+            {
+                "Прокладка, строительство и ремонт инженерных коммуникаций": "https://smolensk.jsprav.ru/prokladka-stroitelstvo-i-remont-inzhenernyih-kommunikatsij/"
+            },
+            {
+                "Промышленное строительство": "https://smolensk.jsprav.ru/promyishlennoe-stroitelstvo/"
+            },
+            {
+                "Промышленный альпинизм": "https://smolensk.jsprav.ru/promyishlennyij-alpinizm/"
+            },
+            {
+                "Рольставни": "https://smolensk.jsprav.ru/rolstavni/"
+            },
+            {
+                "Светопрозрачные конструкции": "https://smolensk.jsprav.ru/cvetoprozrachnyie-konstruktsii/"
+            },
+            {
+                "Системы водоснабжения, отопления и канализации": "https://smolensk.jsprav.ru/sistemyi-vodosnabzheniya-otopleniya-i-kanalizatsii/"
+            },
+            {
+                "Снабжение строительных объектов": "https://smolensk.jsprav.ru/snabzhenie-stroitelnyih-obektov/"
+            },
+            {
+                "Специализированные строительные работы": "https://smolensk.jsprav.ru/spetsializirovannyie-stroitelnyie-rabotyi/"
+            },
+            {
+                "Спецтехника": "https://smolensk.jsprav.ru/spetstehnika/"
+            },
+            {
+                "Стекольные мастерские": "https://smolensk.jsprav.ru/stekolnyie-masterskie/"
+            },
+            {
+                "Столярные и плотницкие работы": "https://smolensk.jsprav.ru/stolyarnyie-i-plotnitskie-rabotyi/"
+            },
+            {
+                "Строительная арматура": "https://smolensk.jsprav.ru/stroitelnaya-armatura/"
+            },
+            {
+                "Строительное оборудование и техника": "https://smolensk.jsprav.ru/stroitelnoe-oborudovanie-i-tehnika/"
+            },
+            {
+                "Строительно-монтажные организации": "https://smolensk.jsprav.ru/stroitelno-montazhnyie-organizatsii/"
+            },
+            {
+                "Строительные и отделочные работы": "https://smolensk.jsprav.ru/stroitelnyie-i-otdelochnyie-rabotyi/"
+            },
+            {
+                "Строительные компании": "https://smolensk.jsprav.ru/stroitelnyie-kompanii/"
+            },
+            {
+                "Строительные конструкции": "https://smolensk.jsprav.ru/ctroitelnyie-konstruktsii/"
+            },
+            {
+                "Строительные магазины": "https://smolensk.jsprav.ru/stroitelnyie-magazinyi/"
+            },
+            {
+                "Строительные проектные организации и фирмы": "https://smolensk.jsprav.ru/stroitelnyie-proektnyie-organizatsii-i-firmyi/"
+            },
+            {
+                "Строительные рынки": "https://smolensk.jsprav.ru/stroitelnyie-ryinki/"
+            },
+            {
+                "Строительство бань и саун, оборудование": "https://smolensk.jsprav.ru/stroitelstvo-ban-i-saun-oborudovanie/"
+            },
+            {
+                "Строительство дачных домов и коттеджей": "https://smolensk.jsprav.ru/stroitelstvo-dachnyih-domov-i-kottedzhej/"
+            },
+            {
+                "Строительство деревянных домов": "https://smolensk.jsprav.ru/stroitelstvo-derevyannyih-domov/"
+            },
+            {
+                "Строительство и проектирование быстровозводимых зданий": "https://smolensk.jsprav.ru/stroitelstvo-i-proektirovanie-byistrovozvodimyih-zdanij/"
+            },
+            {
+                "Строительство под ключ": "https://smolensk.jsprav.ru/stroitelstvo-pod-klyuch/"
+            },
+            {
+                "Строительство, проектирование и оборудование для бассейнов и аквапарков": "https://smolensk.jsprav.ru/stroitelstvo-proektirovanie-i-oborudovanie-dlya-bassejnov-i-akvaparkov/"
+            },
+            {
+                "Строительство складов и ангаров": "https://smolensk.jsprav.ru/stroitelstvo-skladov-i-angarov/"
+            },
+            {
+                "Стройматериалы": "https://smolensk.jsprav.ru/strojmaterialyi/"
+            },
+            {
+                "Теплоизоляционные работы и материалы": "https://smolensk.jsprav.ru/teploizolyatsionnyie-rabotyi-i-materialyi/"
+            },
+            {
+                "Теплые полы": "https://smolensk.jsprav.ru/teplyie-polyi/"
+            },
+            {
+                "Техническое обслуживание зданий": "https://smolensk.jsprav.ru/tehnicheskoe-obsluzhivanie-zdanij/"
+            },
+            {
+                "Тротуарная плитка": "https://smolensk.jsprav.ru/trotuarnaya-plitka/"
+            },
+            {
+                "Укладка, ремонт и продажа паркета": "https://smolensk.jsprav.ru/ukladka-remont-i-prodazha-parketa/"
+            },
+            {
+                "Установка, продажа и ремонт кондиционеров": "https://smolensk.jsprav.ru/ustanovka-prodazha-i-remont-konditsionerov/"
+            },
+            {
+                "Устройство фонтанов и водоемов": "https://smolensk.jsprav.ru/ustrojstvo-fontanov-i-vodoemov/"
+            },
+            {
+                "Фасады и фасадные системы": "https://smolensk.jsprav.ru/fasadyi-i-fasadnyie-sistemyi/"
+            },
+            {
+                "Щебень": "https://smolensk.jsprav.ru/scheben/"
+            },
+            {
+                "Экспертиза строительства и проектов": "https://smolensk.jsprav.ru/ekspertiza-stroitelstva-i-proektov/"
+            },
+            {
+                "Электромонтажные работы": "https://smolensk.jsprav.ru/elektromontazhnyie-rabotyi/"
+            }
+        ]
+    },
+    "Телекоммуникации_и_связь": {
+        "Телекоммуникации и связь в Смоленске": [
+            {
+                "IT-компании": "https://smolensk.jsprav.ru/it-kompanii/"
+            },
+            {
+                "Автоматизированные почтовые терминалы": "https://smolensk.jsprav.ru/avtomatizirovannyij-pochtovyij-terminal/"
+            },
+            {
+                "Вычислительные центры": "https://smolensk.jsprav.ru/vyichislitelnyie-tsentryi/"
+            },
+            {
+                "Городские телефонные сети": "https://smolensk.jsprav.ru/gorodskie-telefonnyie-seti/"
+            },
+            {
+                "Интернет-провайдеры": "https://smolensk.jsprav.ru/internet-provajderyi/"
+            },
+            {
+                "Монтаж, ремонт и продажа оборудования связи": "https://smolensk.jsprav.ru/montazh-remont-i-prodazha-oborudovaniya-svyazi/"
+            },
+            {
+                "Операторы и оборудование спутниковой связи": "https://smolensk.jsprav.ru/operatoryi-i-oborudovanie-sputnikovoj-svyazi/"
+            },
+            {
+                "Операторы сотовой связи": "https://smolensk.jsprav.ru/operatoryi-sotovoj-svyazi/"
+            },
+            {
+                "Почта, телеграф": "https://smolensk.jsprav.ru/pochta-telegraf/"
+            },
+            {
+                "Почтовые отделения": "https://smolensk.jsprav.ru/pochtovyie-otdeleniya/"
+            },
+            {
+                "Почтовые услуги": "https://smolensk.jsprav.ru/pochtovyie-uslugi/"
+            },
+            {
+                "Предприятия и отделения связи": "https://smolensk.jsprav.ru/predpriyatiya-i-otdeleniya-svyazi/"
+            },
+            {
+                "Провайдеры": "https://smolensk.jsprav.ru/provajderyi/"
+            },
+            {
+                "Провайдеры и услуги ip-телефонии": "https://smolensk.jsprav.ru/provajderyi-i-uslugi-ip-telefonii/"
+            },
+            {
+                "Провайдеры кабельного телевидения": "https://smolensk.jsprav.ru/provajderyi-kabelnogo-televideniya/"
+            },
+            {
+                "Проектирование и монтаж СКС": "https://smolensk.jsprav.ru/proektirovanie-i-montazh-sks/"
+            },
+            {
+                "Радиокомпании": "https://smolensk.jsprav.ru/radiokompanii/"
+            },
+            {
+                "Редакции СМИ": "https://smolensk.jsprav.ru/redaktsii-smi/"
+            },
+            {
+                "Салоны связи": "https://smolensk.jsprav.ru/salonyi-svyazi/"
+            },
+            {
+                "Спутниковое телевидение": "https://smolensk.jsprav.ru/sputnikovoe-televidenie/"
+            },
+            {
+                "Строительство и обслуживание инженерных сетей": "https://smolensk.jsprav.ru/stroitelstvo-i-obsluzhivanie-inzhenernyih-setej/"
+            },
+            {
+                "Телевизионное оборудование и аппаратура": "https://smolensk.jsprav.ru/televizionnoe-oborudovanie-i-apparatura/"
+            },
+            {
+                "Телекоммуникационное оборудование": "https://smolensk.jsprav.ru/telekommunikatsionnoe-oborudovanie/"
+            },
+            {
+                "Телекоммуникационные компании": "https://smolensk.jsprav.ru/telekommunikatsionnyie-kompanii/"
+            },
+            {
+                "Телекоммуникационные сети": "https://smolensk.jsprav.ru/telekommunikatsionnyie-seti/"
+            },
+            {
+                "Телекомпании": "https://smolensk.jsprav.ru/telekompanii/"
+            }
+        ]
+    },
+    "Производство__дистрибьюция__оборудование_и_опт": {
+        "Производство, дистрибьюция, оборудование и опт в Смоленске": [
+            {
+                "Аварийно-спасательное оборудование и техника": "https://smolensk.jsprav.ru/avarijno-spasatelnoe-oborudovanie-i-tehnika/"
+            },
+            {
+                "Авиационное и аэродромное оборудование": "https://smolensk.jsprav.ru/aviatsionnoe-i-aerodromnoe-oborudovanie/"
+            },
+            {
+                "Автоматизация производств": "https://smolensk.jsprav.ru/avtomatizatsiya-proizvodstv/"
+            },
+            {
+                "Автоматизированные системы управления": "https://smolensk.jsprav.ru/avtomatizirovannyie-sistemyi-upravleniya/"
+            },
+            {
+                "Алкогольная продукция оптом": "https://smolensk.jsprav.ru/alkogolnaya-produktsiya-optom/"
+            },
+            {
+                "Асфальтобетон и асфальтирование": "https://smolensk.jsprav.ru/asfaltobeton-i-asfaltirovanie/"
+            },
+            {
+                "Безалкогольные напитки оптом": "https://smolensk.jsprav.ru/bezalkogolnyie-napitki-optom/"
+            },
+            {
+                "Бронированные и спецавтомобили": "https://smolensk.jsprav.ru/bronirovannyie-i-spetsavtomobili/"
+            },
+            {
+                "Буровое оборудование": "https://smolensk.jsprav.ru/burovoe-oborudovanie/"
+            },
+            {
+                "Бытовая техника оптом": "https://smolensk.jsprav.ru/byitovaya-tehnika-optom/"
+            },
+            {
+                "Бытовая химия оптом": "https://smolensk.jsprav.ru/byitovaya-himiya-optom/"
+            },
+            {
+                "Весы и весоизмерительное оборудование": "https://smolensk.jsprav.ru/vesyi-i-vesoizmeritelnoe-oborudovanie/"
+            },
+            {
+                "Водоочистка и водоочистное оборудование": "https://smolensk.jsprav.ru/vodoochistka-i-vodoochistnoe-oborudovanie/"
+            },
+            {
+                "Водопроводное оборудование": "https://smolensk.jsprav.ru/vodoprovodnoe-oborudovanie/"
+            },
+            {
+                "Газобаллонное оборудование": "https://smolensk.jsprav.ru/gazoballonnoe-oborudovanie/"
+            },
+            {
+                "Газовое оборудование": "https://smolensk.jsprav.ru/gazovoe-oborudovanie/"
+            },
+            {
+                "Газовые компании": "https://smolensk.jsprav.ru/gazovyie-kompanii/"
+            },
+            {
+                "Галантерейные товары и изделия оптом": "https://smolensk.jsprav.ru/galanterejnyie-tovaryi-i-izdeliya-optom/"
+            },
+            {
+                "Геодезическое оборудование": "https://smolensk.jsprav.ru/geodezicheskoe-oborudovanie/"
+            },
+            {
+                "Гидравлическое оборудование": "https://smolensk.jsprav.ru/gidravlicheskoe-oborudovanie/"
+            },
+            {
+                "Графит и технические углероды": "https://smolensk.jsprav.ru/grafit-i-tehnicheskie-uglerodyi/"
+            },
+            {
+                "Деревообрабатывающие предприятия, заводы и комбинаты": "https://smolensk.jsprav.ru/derevoobrabatyivayuschie-predpriyatiya-zavodyi-i-kombinatyi/"
+            },
+            {
+                "Деревообрабатывающие станки": "https://smolensk.jsprav.ru/derevoobrabatyivayuschie-stanki/"
+            },
+            {
+                "Детские товары оптом": "https://smolensk.jsprav.ru/detskie-tovaryi-optom/"
+            },
+            {
+                "Дистрибьюторы косметики, парфюмерии и бытовой химии": "https://smolensk.jsprav.ru/distribyutoryi-kosmetiki-i-parfyumerii/"
+            },
+            {
+                "Добыча и продажа нерудных материалов": "https://smolensk.jsprav.ru/dobyicha-i-prodazha-nerudnyih-materialov/"
+            },
+            {
+                "Дорожно-строительная техника": "https://smolensk.jsprav.ru/dorozhno-stroitelnaya-tehnika/"
+            },
+            {
+                "Дорожные материалы": "https://smolensk.jsprav.ru/dorozhnyie-materialyi/"
+            },
+            {
+                "Железнодорожная техника и оборудование": "https://smolensk.jsprav.ru/zheleznodorozhnaya-tehnika/"
+            },
+            {
+                "Заводы железобетонных изделий": "https://smolensk.jsprav.ru/zavodyi-zhelezobetonnyih-izdelij/"
+            },
+            {
+                "Игровые автоматы и оборудование": "https://smolensk.jsprav.ru/igrovyie-avtomatyi-i-oborudovanie/"
+            },
+            {
+                "Изготовление и оптовая продажа сувениров": "https://smolensk.jsprav.ru/izgotovlenie-i-optovaya-prodazha-suvenirov/"
+            },
+            {
+                "Изготовление пакетов с логотипом": "https://smolensk.jsprav.ru/izgotovlenie-paketov-s-logotipom/"
+            },
+            {
+                "Инструментальная промышленность": "https://smolensk.jsprav.ru/iinstrumentalnaya-promyishlennost/"
+            },
+            {
+                "Канцелярские товары оптом": "https://smolensk.jsprav.ru/kantselyarskie-tovaryi-optom/"
+            },
+            {
+                "Картографическое производство": "https://smolensk.jsprav.ru/kartograficheskoe-proizvodstvo/"
+            },
+            {
+                "Керамические изделия": "https://smolensk.jsprav.ru/keramicheskie-izdeliya/"
+            },
+            {
+                "Комбинаты питания": "https://smolensk.jsprav.ru/kombinatyi-pitaniya/"
+            },
+            {
+                "Компрессоры и компрессорное оборудование": "https://smolensk.jsprav.ru/kompressoryi-i-kompressornoe-oborudovanie/"
+            },
+            {
+                "Компьютеры и комплектующие оптом": "https://smolensk.jsprav.ru/kompyuteryi-i-komplektuyuschie-optom/"
+            },
+            {
+                "Кондитерское оборудование": "https://smolensk.jsprav.ru/konditerskoe-oborudovanie/"
+            },
+            {
+                "Конструкторские бюро машиностроения": "https://smolensk.jsprav.ru/konstruktorskie-byuro-mashinostroeniya/"
+            },
+            {
+                "Контейнеры": "https://smolensk.jsprav.ru/kontejneryi/"
+            },
+            {
+                "Контрольно-измерительные приборы": "https://smolensk.jsprav.ru/kontrolno-izmeritelnyie-priboryi/"
+            },
+            {
+                "Концертное и театральное оборудование": "https://smolensk.jsprav.ru/kontsertnoe-i-teatralnoe-oborudovanie/"
+            },
+            {
+                "Котлы и котельное оборудование": "https://smolensk.jsprav.ru/kotlyi-i-kotelnoe-oborudovanie/"
+            },
+            {
+                "Кофе оптом": "https://smolensk.jsprav.ru/kofe-optom/"
+            },
+            {
+                "Лакокрасочные материалы": "https://smolensk.jsprav.ru/lakokrasochnyie-materialyi/"
+            },
+            {
+                "Лесничества и лесхозы": "https://smolensk.jsprav.ru/lesnichestva-i-leshozyi/"
+            },
+            {
+                "Лесозаготовительная техника": "https://smolensk.jsprav.ru/lesozagotovitelnaya-tehnika/"
+            },
+            {
+                "Литейное производство": "https://smolensk.jsprav.ru/litejnoe-proizvodstvo/"
+            },
+            {
+                "Магниты и магнитные системы": "https://smolensk.jsprav.ru/magnityi-i-magnitnyie-sistemyi/"
+            },
+            {
+                "Массажное оборудование": "https://smolensk.jsprav.ru/massazhnoe-oborudovanie/"
+            },
+            {
+                "Машиностроение": "https://smolensk.jsprav.ru/mashinostroenie/"
+            },
+            {
+                "Машиностроительные заводы и предприятие": "https://smolensk.jsprav.ru/mashinostroitelnyie-zavodyi-i-predpriyatie/"
+            },
+            {
+                "Мебельные фабрики": "https://smolensk.jsprav.ru/mebelnyie-fabriki/"
+            },
+            {
+                "Металлообрабатывающее оборудование": "https://smolensk.jsprav.ru/metalloobrabatyivayuschee-oborudovanie/"
+            },
+            {
+                "Металлообработка": "https://smolensk.jsprav.ru/metalloobrabotka/"
+            },
+            {
+                "Металлопрокат": "https://smolensk.jsprav.ru/metalloprokat/"
+            },
+            {
+                "Металлургическая промышленность": "https://smolensk.jsprav.ru/metallurgicheskaya-promyishlennost/"
+            },
+            {
+                "Металлургические предприятия и заводы": "https://smolensk.jsprav.ru/metallurgicheskie-predpriyatiya-i-zavodyi/"
+            },
+            {
+                "Модельные агентства": "https://smolensk.jsprav.ru/modelnyie-agentstva/"
+            },
+            {
+                "Молочное оборудование": "https://smolensk.jsprav.ru/molochnoe-oborudovanie/"
+            },
+            {
+                "Мясоперерабатывающее оборудование": "https://smolensk.jsprav.ru/myasopererabatyivayuschee-oborudovanie/"
+            },
+            {
+                "Насосы и насосное оборудование": "https://smolensk.jsprav.ru/nasosyi-i-nasosnoe-oborudovanie/"
+            },
+            {
+                "Нефтяное оборудование": "https://smolensk.jsprav.ru/neftyanoe-oborudovanie/"
+            },
+            {
+                "Нефтяные компании": "https://smolensk.jsprav.ru/neftyanyie-kompanii/"
+            },
+            {
+                "Нижнее белье оптом": "https://smolensk.jsprav.ru/nizhnee-bele-optom/"
+            },
+            {
+                "Оборонная промышленность": "https://smolensk.jsprav.ru/oboronnaya-promyishlennost/"
+            },
+            {
+                "Оборудование для легкой промышленности": "https://smolensk.jsprav.ru/oborudovanie-dlya-legkoj-promyishlennosti/"
+            },
+            {
+                "Оборудование для переработки пластмасс": "https://smolensk.jsprav.ru/oborudovanie-dlya-pererabotki-plastmass/"
+            },
+            {
+                "Оборудование для производства мороженого": "https://smolensk.jsprav.ru/oborudovanie-dlya-proizvodstva-morozhenogo/"
+            },
+            {
+                "Оборудование для производства окон": "https://smolensk.jsprav.ru/oborudovanie-dlya-proizvodstva-okon/"
+            },
+            {
+                "Оборудование для ресторанов": "https://smolensk.jsprav.ru/oborudovanie-dlya-restoranov/"
+            },
+            {
+                "Оборудование и материалы для салонов красоты": "https://smolensk.jsprav.ru/oborudovanie-i-materialyi-dlya-salonov-krasotyi/"
+            },
+            {
+                "Оборудование и продукция для гостиниц": "https://smolensk.jsprav.ru/oborudovanie-i-produktsiya-dlya-gostinits/"
+            },
+            {
+                "Обувные компании и фабрики": "https://smolensk.jsprav.ru/obuvnyie-kompanii-i-fabriki/"
+            },
+            {
+                "Одежда оптом": "https://smolensk.jsprav.ru/odezhda-optom/"
+            },
+            {
+                "Оптические приборы и оборудование": "https://smolensk.jsprav.ru/opticheskie-priboryi-i-oborudovanie/"
+            },
+            {
+                "Оптовые компании": "https://smolensk.jsprav.ru/optovyie-kompanii/"
+            },
+            {
+                "Оптовые магазины": "https://smolensk.jsprav.ru/optovyie-magazinyi/"
+            },
+            {
+                "Очистные сооружения и оборудование": "https://smolensk.jsprav.ru/ochistnyie-sooruzheniya-i-oborudovanie/"
+            },
+            {
+                "Пивоваренное оборудование": "https://smolensk.jsprav.ru/pivovarennoe-oborudovanie/"
+            },
+            {
+                "Пивоваренные заводы": "https://smolensk.jsprav.ru/pivovarennyie-zavodyi/"
+            },
+            {
+                "Пищевое оборудование": "https://smolensk.jsprav.ru/pischevoe-oborudovanie/"
+            },
+            {
+                "Пищевое сырье": "https://smolensk.jsprav.ru/pischevoe-syire/"
+            },
+            {
+                "Пластмассы и полимеры": "https://smolensk.jsprav.ru/plastmassyi-i-polimeryi/"
+            },
+            {
+                "Пневматическое оборудование": "https://smolensk.jsprav.ru/pnevmaticheskoe-oborudovanie/"
+            },
+            {
+                "Подъемное оборудование": "https://smolensk.jsprav.ru/podemnoe-oborudovanie/"
+            },
+            {
+                "Полиграфическое оборудование": "https://smolensk.jsprav.ru/poligraficheskoe-oborudovanie/"
+            },
+            {
+                "Поролон": "https://smolensk.jsprav.ru/porolon/"
+            },
+            {
+                "Поставка и продажа электродвигателей": "https://smolensk.jsprav.ru/postavki-prodazha-i-remont-elektrodvigatelej/"
+            },
+            {
+                "Пошив и оптовая продажа головных уборов": "https://smolensk.jsprav.ru/poshiv-i-optovaya-prodazha-golovnyih-uborov/"
+            },
+            {
+                "Предприятия и организации инновационной деятельности": "https://smolensk.jsprav.ru/predpriyatiya-i-organizatsii-innovatsionnoj-deyatelnosti/"
+            },
+            {
+                "Предприятия и производство черной металлургии": "https://smolensk.jsprav.ru/predpriyatiya-i-proizvodstvo-chernoj-metallurgii/"
+            },
+            {
+                "Приборостроение": "https://smolensk.jsprav.ru/priborostroenie/"
+            },
+            {
+                "Продажа и изготовление пломбираторов и пломб безопасности": "https://smolensk.jsprav.ru/prodazha-i-izgotovlenie-plombiratorov-i-plomb-bezopasnosti/"
+            },
+            {
+                "Продажа и производство металлических труб": "https://smolensk.jsprav.ru/prodazha-i-proizvodstvo-metallicheskih-trub/"
+            },
+            {
+                "Продажа и производство стекла и стекольной продукции": "https://smolensk.jsprav.ru/prodazha-i-proizvodstvo-stekla-i-stekolnoj-produktsii/"
+            },
+            {
+                "Продажа соли оптом и в розницу": "https://smolensk.jsprav.ru/prodazha-soli-optom-i-v-roznitsu/"
+            },
+            {
+                "Продукты питания оптом": "https://smolensk.jsprav.ru/produktyi-pitaniya-optom/"
+            },
+            {
+                "Проекторы и проекционное оборудование": "https://smolensk.jsprav.ru/proektoryi-i-proektsionnoe-oborudovanie/"
+            },
+            {
+                "Производственно-коммерческие фирмы и предприятия": "https://smolensk.jsprav.ru/proizvodstvenno-kommercheskie-firmyi-i-predpriyatiya/"
+            },
+            {
+                "Производственные предприятия и организации": "https://smolensk.jsprav.ru/proizvodstvennoe-predpriyatie-i-organizatsii/"
+            },
+            {
+                "Производство и изготовление алюминия и алюминиевых конструкций": "https://smolensk.jsprav.ru/proizvodstvo-i-izgotovlenie-alyuminiya-i-alyuminievyih-konstruktsij/"
+            },
+            {
+                "Производство и изготовление бетона и бетонных изделий": "https://smolensk.jsprav.ru/proizvodstvo-i-izgotovlenie-betona-i-betonnyih-izdelij/"
+            },
+            {
+                "Производство и оптовая продажа соков": "https://smolensk.jsprav.ru/proizvodstvo-i-optovaya-prodazha-sokov/"
+            },
+            {
+                "Производство и продажа бумаги": "https://smolensk.jsprav.ru/proizvodstvo-i-prodazha-bumagi/"
+            },
+            {
+                "производство и продажа бумажных и полиэтиленовых пакетов": "https://smolensk.jsprav.ru/proizvodstvo-i-prodazha-bumazhnyih-i-polietilenovyih-paketov/"
+            },
+            {
+                "Производство и продажа двигателей": "https://smolensk.jsprav.ru/proizvodstvo-i-prodazha-dvigatelej/"
+            },
+            {
+                "производство и продажа макаронных изделий": "https://smolensk.jsprav.ru/proizvodstvo-i-prodazha-makaronnyih-izdelij/"
+            },
+            {
+                "Производство и продажа небесных фонариков": "https://smolensk.jsprav.ru/proizvodstvo-i-prodazha-nebesnyih-fonarikov/"
+            },
+            {
+                "Производство и продажа смазочных материалов": "https://smolensk.jsprav.ru/proizvodstvo-i-prodazha-smazochnyih-materialov/"
+            },
+            {
+                "Производство и продажа стеклянной тары": "https://smolensk.jsprav.ru/proizvodstvo-i-prodazha-steklyannoj-taryi/"
+            },
+            {
+                "Производство и продажа стеллажей": "https://smolensk.jsprav.ru/proizvodstvo-i-prodazha-stellazhej/"
+            },
+            {
+                "Производство и продажа тканей": "https://smolensk.jsprav.ru/proizvodstvo-i-prodazha-tkanej/"
+            },
+            {
+                "Производство и продажа труб и трубопроводной арматуры": "https://smolensk.jsprav.ru/proizvodstvo-i-prodazha-trub-i-truboprovodnoj-armaturyi/"
+            },
+            {
+                "Производство, монтаж и ремонт лифтов и лифтового оборудовани": "https://smolensk.jsprav.ru/proizvodstvo-montazh-i-remont-liftov-i-liftovogo-oborudovani/"
+            },
+            {
+                "Производство пиломатериалов": "https://smolensk.jsprav.ru/proizvodstvo-pilomaterialov/"
+            },
+            {
+                "Производство продуктов питания": "https://smolensk.jsprav.ru/proizvodstvo-produktov-pitaniya/"
+            },
+            {
+                "Производство промышленных печей": "https://smolensk.jsprav.ru/proizvodstvo-promyishlennyih-pechej/"
+            },
+            {
+                "Производство светильников": "https://smolensk.jsprav.ru/proizvodstvo-svetilnikov/"
+            },
+            {
+                "Производство технических и медицинских газов": "https://smolensk.jsprav.ru/proizvodstvo-tehnicheskih-i-meditsinskih-gazov/"
+            },
+            {
+                "Промышленная химия": "https://smolensk.jsprav.ru/promyishlennaya-himiya/"
+            },
+            {
+                "Промышленное оборудование": "https://smolensk.jsprav.ru/promyishlennoe-oborudovanie/"
+            },
+            {
+                "Промышленное холодильное оборудование": "https://smolensk.jsprav.ru/promyishlennoe-holodilnoe-oborudovanie/"
+            },
+            {
+                "Промышленные и производственные здания и сооружения": "https://smolensk.jsprav.ru/promyishlennyie-i-proizvodstvennyie-zdaniya-i-sooruzheniya/"
+            },
+            {
+                "Птицефабрики": "https://smolensk.jsprav.ru/ptitsefabriki/"
+            },
+            {
+                "Резиновые и резинотехнические изделия": "https://smolensk.jsprav.ru/rezinovyie-i-rezinotehnicheskie-izdeliya/"
+            },
+            {
+                "Рекламное оборудование": "https://smolensk.jsprav.ru/reklamnoe-oborudovanie/"
+            },
+            {
+                "Рыба и морепродукты оптом": "https://smolensk.jsprav.ru/ryiba-i-moreproduktyi-optom/"
+            },
+            {
+                "Рыбоперерабатывающее оборудование": "https://smolensk.jsprav.ru/ryibopererabatyivayuschee-oborudovanie/"
+            },
+            {
+                "Сантехника оптом": "https://smolensk.jsprav.ru/santehnika-optom/"
+            },
+            {
+                "Сахарные компании": "https://smolensk.jsprav.ru/saharnyie-kompanii/"
+            },
+            {
+                "Сварочное оборудование и материалы": "https://smolensk.jsprav.ru/svarochnoe-oborudovanie-i-materialyi/"
+            },
+            {
+                "Световые и светодиодные системы": "https://smolensk.jsprav.ru/svetovyie-i-svetodiodnyie-sistemyi/"
+            },
+            {
+                "Сельскохозяйственная продукция": "https://smolensk.jsprav.ru/selskohozyajstvennaya-produktsiya/"
+            },
+            {
+                "Сельскохозяйственная техника": "https://smolensk.jsprav.ru/selskohozyajstvennaya-tehnika/"
+            },
+            {
+                "Сельскохозяйственные предприятия и организации": "https://smolensk.jsprav.ru/selskohozyajstvennyie-predpriyatiya-i-organizatsii/"
+            },
+            {
+                "Складское оборудование": "https://smolensk.jsprav.ru/ckladskoe-oborudovanie/"
+            },
+            {
+                "Станки и станкостроение": "https://smolensk.jsprav.ru/stanki-i-stankostroenie/"
+            },
+            {
+                "Стоматологические материалы и оборудование": "https://smolensk.jsprav.ru/stomatologicheskie-materialyi-i-oborudovanie/"
+            },
+            {
+                "Стройматериалы оптом": "https://smolensk.jsprav.ru/strojmaterialyi-optom/"
+            },
+            {
+                "Студии звукозаписи": "https://smolensk.jsprav.ru/studii-zvukozapisi/"
+            },
+            {
+                "Текстиль": "https://smolensk.jsprav.ru/tekstil/"
+            },
+            {
+                "Текстильное оборудование": "https://smolensk.jsprav.ru/tekstilnoe-oborudovanie/"
+            },
+            {
+                "Тепличное оборудование": "https://smolensk.jsprav.ru/teplichnoe-oborudovanie/"
+            },
+            {
+                "Товары для животных оптом": "https://smolensk.jsprav.ru/tovaryi-dlya-zhivotnyih-optom/"
+            },
+            {
+                "Торговое оборудование": "https://smolensk.jsprav.ru/torgovoe-oborudovanie/"
+            },
+            {
+                "Транспортеры и конвейеры": "https://smolensk.jsprav.ru/transporteryi-i-konvejeryi/"
+            },
+            {
+                "Угольные компании": "https://smolensk.jsprav.ru/ugolnyie-kompanii/"
+            },
+            {
+                "Упаковочное оборудование": "https://smolensk.jsprav.ru/upakovochnoe-oborudovanie/"
+            },
+            {
+                "Химическое производство": "https://smolensk.jsprav.ru/himicheskoe-proizvodstvo/"
+            },
+            {
+                "Хлебозавод": "https://smolensk.jsprav.ru/hlebozavod/"
+            },
+            {
+                "Хлебопекарное оборудование": "https://smolensk.jsprav.ru/hlebopekarnoe-oborudovanie/"
+            },
+            {
+                "Хозтовары оптом": "https://smolensk.jsprav.ru/hoztovaryi-optom/"
+            },
+            {
+                "Художественные изделия": "https://smolensk.jsprav.ru/hudozhestvennyie-izdeliya/"
+            },
+            {
+                "Цветные металлы": "https://smolensk.jsprav.ru/tsvetnyie-metallyi/"
+            },
+            {
+                "Чайные компании и поставщики": "https://smolensk.jsprav.ru/chajnyie-kompanii-i-postavschiki/"
+            },
+            {
+                "Швейное оборудование": "https://smolensk.jsprav.ru/shvejnoe-oborudovanie/"
+            },
+            {
+                "Швейные и вязальные машины": "https://smolensk.jsprav.ru/shvejnyie-i-vyazalnyie-mashinyi/"
+            },
+            {
+                "Швейные фабрики": "https://smolensk.jsprav.ru/shvejnyie-fabriki/"
+            },
+            {
+                "Экологическое оборудование": "https://smolensk.jsprav.ru/ekologicheskoe-oborudovanie/"
+            },
+            {
+                "Элеваторы": "https://smolensk.jsprav.ru/elevatoryi/"
+            },
+            {
+                "Электромонтажные и электроустановочные изделия": "https://smolensk.jsprav.ru/elektromontazhnyie-i-elektroustanovochnyie-izdeliya/"
+            },
+            {
+                "Электронные табло": "https://smolensk.jsprav.ru/elektronnyie-tablo/"
+            },
+            {
+                "Электростанции": "https://smolensk.jsprav.ru/elektrostantsii/"
+            },
+            {
+                "Электротехническая продукция и оборудование": "https://smolensk.jsprav.ru/elektrotehnicheskaya-produktsiya-i-oborudovanie/"
+            },
+            {
+                "Энергетические организации": "https://smolensk.jsprav.ru/energeticheskaya-organizatsiya/"
+            },
+            {
+                "Энергетическое оборудование": "https://smolensk.jsprav.ru/energeticheskoe-oborudovanie/"
+            },
+            {
+                "Ювелирное оборудование": "https://smolensk.jsprav.ru/yuvelirnoe-oborudovanie/"
+            },
+            {
+                "Ювелирные изделия оптом": "https://smolensk.jsprav.ru/yuvelirnyie-izdeliya-optom/"
+            },
+            {
+                "Ювелирные фабрики": "https://smolensk.jsprav.ru/yuvelirnyie-fabriki/"
+            }
+        ]
+    },
+    "Культура_и_искуство": {
+        "Культура и искуство в Смоленске": [
+            {
+                "Выставочные центры": "https://smolensk.jsprav.ru/vyistavochnyie-tsentryi/"
+            },
+            {
+                "Кинопрокатные компании": "https://smolensk.jsprav.ru/kinoprokatnyie-kompanii/"
+            },
+            {
+                "Консерватории": "https://smolensk.jsprav.ru/konservatorii/"
+            },
+            {
+                "Культурно-просветительские организации": "https://smolensk.jsprav.ru/kulturno-prosvetitelskie-organizatsii/"
+            },
+            {
+                "Олимпийские объекты": "https://smolensk.jsprav.ru/olimpijskie-obektyi/"
+            },
+            {
+                "Организация и обслуживание выставок": "https://smolensk.jsprav.ru/organizatsiya-i-obsluzhivanie-vyistavok/"
+            },
+            {
+                "Оркестры": "https://smolensk.jsprav.ru/orkestryi/"
+            },
+            {
+                "Ремесла и художественные промыслы": "https://smolensk.jsprav.ru/remesla-i-hudozhestvennyie-promyislyi/"
+            },
+            {
+                "Театральные кассы": "https://smolensk.jsprav.ru/teatralnyie-kassyi/"
+            },
+            {
+                "Филармонии": "https://smolensk.jsprav.ru/filarmonii/"
+            },
+            {
+                "Школы искусств": "https://smolensk.jsprav.ru/shkolyi-iskusstv/"
+            }
+        ]
+    },
+    "Дом__декор_и_интерьер": {
+        "Дом, декор и интерьер в Смоленске": [
+            {
+                "Авторская и эксклюзивная мебель": "https://smolensk.jsprav.ru/avtorskaya-i-eksklyuzivnaya-mebel/"
+            },
+            {
+                "Багетные мастерские": "https://smolensk.jsprav.ru/bagetnyie-masterskie/"
+            },
+            {
+                "Гипсовые изделия": "https://smolensk.jsprav.ru/gipsovyie-izdeliya/"
+            },
+            {
+                "Гобелены": "https://smolensk.jsprav.ru/gobelenyi/"
+            },
+            {
+                "Декоративные покрытия": "https://smolensk.jsprav.ru/dekorativnyie-pokryitiya/"
+            },
+            {
+                "Дизайн интерьеров": "https://smolensk.jsprav.ru/dizajn-intererov/"
+            },
+            {
+                "Европейские кухни": "https://smolensk.jsprav.ru/evropejskie-kuhni/"
+            },
+            {
+                "Жалюзи и рулонные шторы": "https://smolensk.jsprav.ru/zhalyuzi-i-rulonnyie-shtoryi/"
+            },
+            {
+                "Изготовление и реставрация зеркал": "https://smolensk.jsprav.ru/izgotovlenie-i-restavratsiya-zerkal/"
+            },
+            {
+                "Искусственные растения и цветы": "https://smolensk.jsprav.ru/iskusstvennyie-rasteniya-i-tsvetyi/"
+            },
+            {
+                "Кованые изделия": "https://smolensk.jsprav.ru/kovanyie-izdeliya/"
+            },
+            {
+                "Магазины жалюзей": "https://smolensk.jsprav.ru/magazinyi-zhalyuzej/"
+            },
+            {
+                "Мебель из стекла": "https://smolensk.jsprav.ru/mebel-iz-stekla/"
+            },
+            {
+                "Подарки и предметы интерьера": "https://smolensk.jsprav.ru/podarki-i-predmetyi-interera/"
+            },
+            {
+                "Производство и продажа шкафов-купе": "https://smolensk.jsprav.ru/proizvodstvo-i-prodazha-shkafov-kupe/"
+            },
+            {
+                "Садовая и дачная мебель": "https://smolensk.jsprav.ru/sadovaya-i-dachnaya-mebel/"
+            },
+            {
+                "Специализированная мебель": "https://smolensk.jsprav.ru/cpetsializirovannaya-mebel/"
+            },
+            {
+                "Студии графического дизайна": "https://smolensk.jsprav.ru/studiya-graficheskogo-dizajna/"
+            },
+            {
+                "Студии ландшафтного дизайна": "https://smolensk.jsprav.ru/studii-landshaftnogo-dizajna/"
+            },
+            {
+                "Товары для интерьера": "https://smolensk.jsprav.ru/tovaryi-dlya-interera/"
+            },
+            {
+                "Художественные мастерские": "https://smolensk.jsprav.ru/hudozhestvennyie-masterskae/"
+            },
+            {
+                "Художественные салоны": "https://smolensk.jsprav.ru/hudozhestvennyie-salonyi/"
+            },
+            {
+                "Элитная мебель": "https://smolensk.jsprav.ru/elitnaya-mebel/"
+            }
+        ]
+    }
+}
